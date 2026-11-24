@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "autocad": {
+      "command": "<MAPPA>/cad-mcp/.venv/bin/python",
+      "args": ["-m", "cad_mcp"],
+      "env": {
+        "PYTHONPATH": "<MAPPA>/cad-mcp/src",
+        "CAD_MCP_WORKDIR": "/Users/<FELHASZNALO>/Documents/CAD-MCP",
+        "CAD_MCP_MODULES": "kek"
+      }
+    }
+  }
+}

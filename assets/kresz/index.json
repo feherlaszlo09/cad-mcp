@@ -1,0 +1,4106 @@
+[
+ {
+  "code": "A-001",
+  "file": "Hungary_road_sign_A-001.svg",
+  "name": "Hungary road sign A-001",
+  "description": "Veszélyes útkanyarulat balra.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-001.svg"
+ },
+ {
+  "code": "A-002",
+  "file": "Hungary_road_sign_A-002.svg",
+  "name": "Hungary road sign A-002",
+  "description": "Veszélyes útkanyarulat jobbra.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-002.svg"
+ },
+ {
+  "code": "A-003",
+  "file": "Hungary_road_sign_A-003.svg",
+  "name": "Hungary road sign A-003",
+  "description": "Egymás utáni veszélyes útkanyarulatok - az első útkanyarulat balra vezet.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-003.svg"
+ },
+ {
+  "code": "A-004",
+  "file": "Hungary_road_sign_A-004.svg",
+  "name": "Hungary road sign A-004",
+  "description": "Egymás utáni veszélyes útkanyarulatok - az első útkanyarulat jobbra vazet.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-004.svg"
+ },
+ {
+  "code": "A-005",
+  "file": "Hungary_road_sign_A-005.svg",
+  "name": "Hungary road sign A-005",
+  "description": "Veszélyes lejtő.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-005.svg"
+ },
+ {
+  "code": "A-006",
+  "file": "Hungary_road_sign_A-006.svg",
+  "name": "Hungary road sign A-006",
+  "description": "Veszélyes emelkedő.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-006.svg"
+ },
+ {
+  "code": "A-007",
+  "file": "Hungary_road_sign_A-007.svg",
+  "name": "Hungary road sign A-007",
+  "description": "Útszűkület.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-007.svg"
+ },
+ {
+  "code": "A-008",
+  "file": "Hungary_road_sign_A-008.svg",
+  "name": "Hungary road sign A-008",
+  "description": "Útszűkület.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-008.svg"
+ },
+ {
+  "code": "A-009",
+  "file": "Hungary_road_sign_A-009.svg",
+  "name": "Hungary road sign A-009",
+  "description": "Útszűkület.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-009.svg"
+ },
+ {
+  "code": "A-010",
+  "file": "Hungary_road_sign_A-010.svg",
+  "name": "Hungary road sign A-010",
+  "description": "Kompátkelés vagy nyitható híd.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-010.svg"
+ },
+ {
+  "code": "A-011",
+  "file": "Hungary_road_sign_A-011.svg",
+  "name": "Hungary road sign A-011",
+  "description": "Rakpart vagy meredek part.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-011.svg"
+ },
+ {
+  "code": "A-012",
+  "file": "Hungary_road_sign_A-012.svg",
+  "name": "Hungary road sign A-012",
+  "description": "Rakpart vagy meredek part.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-012.svg"
+ },
+ {
+  "code": "A-013",
+  "file": "Hungary_road_sign_A-013.svg",
+  "name": "Hungary road sign A-013",
+  "description": "Egyenetlen úttest.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-013.svg"
+ },
+ {
+  "code": "A-014",
+  "file": "Hungary_road_sign_A-014.svg",
+  "name": "Hungary road sign A-014",
+  "description": "Bukkanó.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-014.svg"
+ },
+ {
+  "code": "A-015",
+  "file": "Hungary_road_sign_A-015.svg",
+  "name": "Hungary road sign A-015",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-015.svg"
+ },
+ {
+  "code": "A-016",
+  "file": "Hungary_road_sign_A-016.svg",
+  "name": "Hungary road sign A-016",
+  "description": "Csúszós úttest.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-016.svg"
+ },
+ {
+  "code": "A-017",
+  "file": "Hungary_road_sign_A-017.svg",
+  "name": "Hungary road sign A-017",
+  "description": "Kavicsfelverődés.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-017.svg"
+ },
+ {
+  "code": "A-018",
+  "file": "Hungary_road_sign_A-018.svg",
+  "name": "Hungary road sign A-018",
+  "description": "Kőomlás.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-018.svg"
+ },
+ {
+  "code": "A-019",
+  "file": "Hungary_road_sign_A-019.svg",
+  "name": "Hungary road sign A-019",
+  "description": "Kőomlás.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-019.svg"
+ },
+ {
+  "code": "A-020",
+  "file": "Hungary_road_sign_A-020.svg",
+  "name": "Hungary road sign A-020",
+  "description": "Gyalogosátkelés.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-020.svg"
+ },
+ {
+  "code": "A-021",
+  "file": "Hungary_road_sign_A-021.svg",
+  "name": "Hungary road sign A-021",
+  "description": "Gyermekek.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-021.svg"
+ },
+ {
+  "code": "A-021a",
+  "file": "Hungary_road_sign_A-021a.svg",
+  "name": "Hungary road sign A-021a",
+  "description": "Gyermekek.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-021a.svg"
+ },
+ {
+  "code": "A-022",
+  "file": "Hungary_road_sign_A-022.svg",
+  "name": "Hungary road sign A-022",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-022.svg"
+ },
+ {
+  "code": "A-023",
+  "file": "Hungary_road_sign_A-023.svg",
+  "name": "Hungary road sign A-023",
+  "description": "Házi állatok.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-023.svg"
+ },
+ {
+  "code": "A-024",
+  "file": "Hungary_road_sign_A-024.svg",
+  "name": "Hungary road sign A-024",
+  "description": "Szabadon élő állatok.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-024.svg"
+ },
+ {
+  "code": "A-025",
+  "file": "Hungary_road_sign_A-025.svg",
+  "name": "Hungary road sign A-025",
+  "description": "Úton folyó munkák.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-025.svg"
+ },
+ {
+  "code": "A-026",
+  "file": "Hungary_road_sign_A-026.svg",
+  "name": "Hungary road sign A-026",
+  "description": "Forgalomirányító fényjelző készülék.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-026.svg"
+ },
+ {
+  "code": "A-027",
+  "file": "Hungary_road_sign_A-027.svg",
+  "name": "Hungary road sign A-027",
+  "description": "Egyenrangú utak kereszteződése.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-027.svg"
+ },
+ {
+  "code": "A-028",
+  "file": "Hungary_road_sign_A-028.svg",
+  "name": "Hungary road sign A-028",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-028.svg"
+ },
+ {
+  "code": "A-029",
+  "file": "Hungary_road_sign_A-029.svg",
+  "name": "Hungary road sign A-029",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-029.svg"
+ },
+ {
+  "code": "A-030",
+  "file": "Hungary_road_sign_A-030.svg",
+  "name": "Hungary road sign A-030",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-030.svg"
+ },
+ {
+  "code": "A-031",
+  "file": "Hungary_road_sign_A-031.svg",
+  "name": "Hungary road sign A-031",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-031.svg"
+ },
+ {
+  "code": "A-032",
+  "file": "Hungary_road_sign_A-032.svg",
+  "name": "Hungary road sign A-032",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-032.svg"
+ },
+ {
+  "code": "A-033",
+  "file": "Hungary_road_sign_A-033.svg",
+  "name": "Hungary road sign A-033",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-033.svg"
+ },
+ {
+  "code": "A-034",
+  "file": "Hungary_road_sign_A-034.svg",
+  "name": "Hungary road sign A-034",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-034.svg"
+ },
+ {
+  "code": "A-035",
+  "file": "Hungary_road_sign_A-035.svg",
+  "name": "Hungary road sign A-035",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-035.svg"
+ },
+ {
+  "code": "A-036",
+  "file": "Hungary_road_sign_A-036.svg",
+  "name": "Hungary road sign A-036",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-036.svg"
+ },
+ {
+  "code": "A-037",
+  "file": "Hungary_road_sign_A-037.svg",
+  "name": "Hungary road sign A-037",
+  "description": "Szembejövő forgalom.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-037.svg"
+ },
+ {
+  "code": "A-038",
+  "file": "Hungary_road_sign_A-038.svg",
+  "name": "Hungary road sign A-038",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-038.svg"
+ },
+ {
+  "code": "A-039",
+  "file": "Hungary_road_sign_A-039.svg",
+  "name": "Hungary road sign A-039",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-039.svg"
+ },
+ {
+  "code": "A-040",
+  "file": "Hungary_road_sign_A-040.svg",
+  "name": "Hungary road sign A-040",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-040.svg"
+ },
+ {
+  "code": "A-041",
+  "file": "Hungary_road_sign_A-041.svg",
+  "name": "Hungary road sign A-041",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-041.svg"
+ },
+ {
+  "code": "A-042",
+  "file": "Hungary_road_sign_A-042.svg",
+  "name": "Hungary road sign A-042",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-042.svg"
+ },
+ {
+  "code": "A-043",
+  "file": "Hungary_road_sign_A-043.svg",
+  "name": "Hungary road sign A-043",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-043.svg"
+ },
+ {
+  "code": "A-044",
+  "file": "Hungary_road_sign_A-044.svg",
+  "name": "Hungary road sign A-044",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-044.svg"
+ },
+ {
+  "code": "A-045",
+  "file": "Hungary_road_sign_A-045.svg",
+  "name": "Hungary road sign A-045",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-045.svg"
+ },
+ {
+  "code": "A-046",
+  "file": "Hungary_road_sign_A-046.svg",
+  "name": "Hungary road sign A-046",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-046.svg"
+ },
+ {
+  "code": "A-047",
+  "file": "Hungary_road_sign_A-047.svg",
+  "name": "Hungary road sign A-047",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-047.svg"
+ },
+ {
+  "code": "A-048",
+  "file": "Hungary_road_sign_A-048.svg",
+  "name": "Hungary road sign A-048",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-048.svg"
+ },
+ {
+  "code": "A-049",
+  "file": "Hungary_road_sign_A-049.svg",
+  "name": "Hungary road sign A-049",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-049.svg"
+ },
+ {
+  "code": "A-050",
+  "file": "Hungary_road_sign_A-050.svg",
+  "name": "Hungary road sign A-050",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-050.svg"
+ },
+ {
+  "code": "A-051",
+  "file": "Hungary_road_sign_A-051.svg",
+  "name": "Hungary road sign A-051",
+  "description": "Mélyrepülés.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-051.svg"
+ },
+ {
+  "code": "A-052",
+  "file": "Hungary_road_sign_A-052.svg",
+  "name": "Hungary road sign A-052",
+  "description": "Oldalszél.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-052.svg"
+ },
+ {
+  "code": "A-053",
+  "file": "Hungary_road_sign_A-053.svg",
+  "name": "Hungary road sign A-053",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-053.svg"
+ },
+ {
+  "code": "A-054",
+  "file": "Hungary_road_sign_A-054.svg",
+  "name": "Hungary road sign A-054",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-054.svg"
+ },
+ {
+  "code": "A-056",
+  "file": "Hungary_road_sign_A-056.svg",
+  "name": "Hungary road sign A-056",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-056.svg"
+ },
+ {
+  "code": "A-057",
+  "file": "Hungary_road_sign_A-057.svg",
+  "name": "Hungary road sign A-057",
+  "description": "Warning Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_A-057.svg"
+ },
+ {
+  "code": "B-001",
+  "file": "Hungary_road_sign_B-001.svg",
+  "name": "Hungary road sign B-001",
+  "description": "Priority Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_B-001.svg"
+ },
+ {
+  "code": "B-002",
+  "file": "Hungary_road_sign_B-002.svg",
+  "name": "Hungary road sign B-002",
+  "description": "Priority Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_B-002.svg"
+ },
+ {
+  "code": "B-003",
+  "file": "Hungary_road_sign_B-003.svg",
+  "name": "Hungary road sign B-003",
+  "description": "Priority Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_B-003.svg"
+ },
+ {
+  "code": "B-004",
+  "file": "Hungary_road_sign_B-004.svg",
+  "name": "Hungary road sign B-004",
+  "description": "Priority Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_B-004.svg"
+ },
+ {
+  "code": "B-005",
+  "file": "Hungary_road_sign_B-005.svg",
+  "name": "Hungary road sign B-005",
+  "description": "Priority Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_B-005.svg"
+ },
+ {
+  "code": "B-006",
+  "file": "Hungary_road_sign_B-006.svg",
+  "name": "Hungary road sign B-006",
+  "description": "Priority Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_B-006.svg"
+ },
+ {
+  "code": "C-001",
+  "file": "Hungary_road_sign_C-001.svg",
+  "name": "Hungary road sign C-001",
+  "description": "Behajtani tilos.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-001.svg"
+ },
+ {
+  "code": "C-002",
+  "file": "Hungary_road_sign_C-002.svg",
+  "name": "Hungary road sign C-002",
+  "description": "Mindkét irányból behajtani tilos.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-002.svg"
+ },
+ {
+  "code": "C-003",
+  "file": "Hungary_road_sign_C-003.svg",
+  "name": "Hungary road sign C-003",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-003.svg"
+ },
+ {
+  "code": "C-004",
+  "file": "Hungary_road_sign_C-004.svg",
+  "name": "Hungary road sign C-004",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-004.svg"
+ },
+ {
+  "code": "C-005",
+  "file": "Hungary_road_sign_C-005.svg",
+  "name": "Hungary road sign C-005",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-005.svg"
+ },
+ {
+  "code": "C-006",
+  "file": "Hungary_road_sign_C-006.svg",
+  "name": "Hungary road sign C-006",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-006.svg"
+ },
+ {
+  "code": "C-007",
+  "file": "Hungary_road_sign_C-007.svg",
+  "name": "Hungary road sign C-007",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-007.svg"
+ },
+ {
+  "code": "C-008",
+  "file": "Hungary_road_sign_C-008.svg",
+  "name": "Hungary road sign C-008",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-008.svg"
+ },
+ {
+  "code": "C-009",
+  "file": "Hungary_road_sign_C-009.svg",
+  "name": "Hungary road sign C-009",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-009.svg"
+ },
+ {
+  "code": "C-010",
+  "file": "Hungary_road_sign_C-010.svg",
+  "name": "Hungary road sign C-010",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-010.svg"
+ },
+ {
+  "code": "C-011",
+  "file": "Hungary_road_sign_C-011.svg",
+  "name": "Hungary road sign C-011",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-011.svg"
+ },
+ {
+  "code": "C-012",
+  "file": "Hungary_road_sign_C-012.svg",
+  "name": "Hungary road sign C-012",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-012.svg"
+ },
+ {
+  "code": "C-013",
+  "file": "Hungary_road_sign_C-013.svg",
+  "name": "Hungary road sign C-013",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-013.svg"
+ },
+ {
+  "code": "C-014",
+  "file": "Hungary_road_sign_C-014.svg",
+  "name": "Hungary road sign C-014",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-014.svg"
+ },
+ {
+  "code": "C-015",
+  "file": "Hungary_road_sign_C-015.svg",
+  "name": "Hungary road sign C-015",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-015.svg"
+ },
+ {
+  "code": "C-016",
+  "file": "Hungary_road_sign_C-016.svg",
+  "name": "Hungary road sign C-016",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-016.svg"
+ },
+ {
+  "code": "C-017",
+  "file": "Hungary_road_sign_C-017.svg",
+  "name": "Hungary road sign C-017",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-017.svg"
+ },
+ {
+  "code": "C-018",
+  "file": "Hungary_road_sign_C-018.svg",
+  "name": "Hungary road sign C-018",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-018.svg"
+ },
+ {
+  "code": "C-019",
+  "file": "Hungary_road_sign_C-019.svg",
+  "name": "Hungary road sign C-019",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-019.svg"
+ },
+ {
+  "code": "C-020",
+  "file": "Hungary_road_sign_C-020.svg",
+  "name": "Hungary road sign C-020",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-020.svg"
+ },
+ {
+  "code": "C-021",
+  "file": "Hungary_road_sign_C-021.svg",
+  "name": "Hungary road sign C-021",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-021.svg"
+ },
+ {
+  "code": "C-022",
+  "file": "Hungary_road_sign_C-022.svg",
+  "name": "Hungary road sign C-022",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-022.svg"
+ },
+ {
+  "code": "C-023",
+  "file": "Hungary_road_sign_C-023.svg",
+  "name": "Hungary road sign C-023",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-023.svg"
+ },
+ {
+  "code": "C-024",
+  "file": "Hungary_road_sign_C-024.svg",
+  "name": "Hungary road sign C-024",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-024.svg"
+ },
+ {
+  "code": "C-025",
+  "file": "Hungary_road_sign_C-025.svg",
+  "name": "Hungary road sign C-025",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-025.svg"
+ },
+ {
+  "code": "C-026",
+  "file": "Hungary_road_sign_C-026.svg",
+  "name": "Hungary road sign C-026",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-026.svg"
+ },
+ {
+  "code": "C-027",
+  "file": "Hungary_road_sign_C-027.svg",
+  "name": "Hungary road sign C-027",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-027.svg"
+ },
+ {
+  "code": "C-028",
+  "file": "Hungary_road_sign_C-028.svg",
+  "name": "Hungary road sign C-028",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-028.svg"
+ },
+ {
+  "code": "C-029",
+  "file": "Hungary_road_sign_C-029.svg",
+  "name": "Hungary road sign C-029",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-029.svg"
+ },
+ {
+  "code": "C-030",
+  "file": "Hungary_road_sign_C-030.svg",
+  "name": "Hungary road sign C-030",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-030.svg"
+ },
+ {
+  "code": "C-031",
+  "file": "Hungary_road_sign_C-031.svg",
+  "name": "Hungary road sign C-031",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-031.svg"
+ },
+ {
+  "code": "C-032",
+  "file": "Hungary_road_sign_C-032.svg",
+  "name": "Hungary road sign C-032",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-032.svg"
+ },
+ {
+  "code": "C-033-10",
+  "file": "Hungary_road_sign_C-033-10.svg",
+  "name": "Hungary road sign C-033-10",
+  "description": "Sebességkorlátozás - 10 km/h.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-033-10.svg"
+ },
+ {
+  "code": "C-033-100",
+  "file": "Hungary_road_sign_C-033-100.svg",
+  "name": "Hungary road sign C-033-100",
+  "description": "Sebességkorlátozás - 100 km/h.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-033-100.svg"
+ },
+ {
+  "code": "C-033-110",
+  "file": "Hungary_road_sign_C-033-110.svg",
+  "name": "Hungary road sign C-033-110",
+  "description": "Sebességkorlátozás - 110 km/h.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-033-110.svg"
+ },
+ {
+  "code": "C-033-120",
+  "file": "Hungary_road_sign_C-033-120.svg",
+  "name": "Hungary road sign C-033-120",
+  "description": "Sebességkorlátozás - 120 km/h.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-033-120.svg"
+ },
+ {
+  "code": "C-033-130",
+  "file": "Hungary_road_sign_C-033-130.svg",
+  "name": "Hungary road sign C-033-130",
+  "description": "Sebességkorlátozás - 130 km/h.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-033-130.svg"
+ },
+ {
+  "code": "C-033-20",
+  "file": "Hungary_road_sign_C-033-20.svg",
+  "name": "Hungary road sign C-033-20",
+  "description": "Sebességkorlátozás - 20 km/h.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-033-20.svg"
+ },
+ {
+  "code": "C-033-30",
+  "file": "Hungary_road_sign_C-033-30.svg",
+  "name": "Hungary road sign C-033-30",
+  "description": "Sebességkorlátozás - 30 km/h.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-033-30.svg"
+ },
+ {
+  "code": "C-033-40",
+  "file": "Hungary_road_sign_C-033-40.svg",
+  "name": "Hungary road sign C-033-40",
+  "description": "Sebességkorlátozás - 40 km/h.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-033-40.svg"
+ },
+ {
+  "code": "C-033-5",
+  "file": "Hungary_road_sign_C-033-5.svg",
+  "name": "Hungary road sign C-033-5",
+  "description": "Sebességkorlátozás - 5 km/h.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-033-5.svg"
+ },
+ {
+  "code": "C-033-50",
+  "file": "Hungary_road_sign_C-033-50.svg",
+  "name": "Hungary road sign C-033-50",
+  "description": "Sebességkorlátozás - 50 km/h.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-033-50.svg"
+ },
+ {
+  "code": "C-033-60",
+  "file": "Hungary_road_sign_C-033-60.svg",
+  "name": "Hungary road sign C-033-60",
+  "description": "Sebességkorlátozás - 60 km/h.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-033-60.svg"
+ },
+ {
+  "code": "C-033-70",
+  "file": "Hungary_road_sign_C-033-70.svg",
+  "name": "Hungary road sign C-033-70",
+  "description": "Sebességkorlátozás - 70 km/h.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-033-70.svg"
+ },
+ {
+  "code": "C-033-80",
+  "file": "Hungary_road_sign_C-033-80.svg",
+  "name": "Hungary road sign C-033-80",
+  "description": "Sebességkorlátozás - 80 km/h.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-033-80.svg"
+ },
+ {
+  "code": "C-033-90",
+  "file": "Hungary_road_sign_C-033-90.svg",
+  "name": "Hungary road sign C-033-90",
+  "description": "Sebességkorlátozás - 90 km/h.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-033-90.svg"
+ },
+ {
+  "code": "C-034",
+  "file": "Hungary_road_sign_C-034.svg",
+  "name": "Hungary road sign C-034",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-034.svg"
+ },
+ {
+  "code": "C-035",
+  "file": "Hungary_road_sign_C-035.svg",
+  "name": "Hungary road sign C-035",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-035.svg"
+ },
+ {
+  "code": "C-036",
+  "file": "Hungary_road_sign_C-036.svg",
+  "name": "Hungary road sign C-036",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-036.svg"
+ },
+ {
+  "code": "C-037",
+  "file": "Hungary_road_sign_C-037.svg",
+  "name": "Hungary road sign C-037",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-037.svg"
+ },
+ {
+  "code": "C-038",
+  "file": "Hungary_road_sign_C-038.svg",
+  "name": "Hungary road sign C-038",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-038.svg"
+ },
+ {
+  "code": "C-039",
+  "file": "Hungary_road_sign_C-039.svg",
+  "name": "Hungary road sign C-039",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-039.svg"
+ },
+ {
+  "code": "C-040",
+  "file": "Hungary_road_sign_C-040.svg",
+  "name": "Hungary road sign C-040",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-040.svg"
+ },
+ {
+  "code": "C-041",
+  "file": "Hungary_road_sign_C-041.svg",
+  "name": "Hungary road sign C-041",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-041.svg"
+ },
+ {
+  "code": "C-042",
+  "file": "Hungary_road_sign_C-042.svg",
+  "name": "Hungary road sign C-042",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-042.svg"
+ },
+ {
+  "code": "C-043",
+  "file": "Hungary_road_sign_C-043.svg",
+  "name": "Hungary road sign C-043",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-043.svg"
+ },
+ {
+  "code": "C-044",
+  "file": "Hungary_road_sign_C-044.svg",
+  "name": "Hungary road sign C-044",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-044.svg"
+ },
+ {
+  "code": "C-045",
+  "file": "Hungary_road_sign_C-045.svg",
+  "name": "Hungary road sign C-045",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-045.svg"
+ },
+ {
+  "code": "C-046",
+  "file": "Hungary_road_sign_C-046.svg",
+  "name": "Hungary road sign C-046",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-046.svg"
+ },
+ {
+  "code": "C-047",
+  "file": "Hungary_road_sign_C-047.svg",
+  "name": "Hungary road sign C-047",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-047.svg"
+ },
+ {
+  "code": "C-048",
+  "file": "Hungary_road_sign_C-048.svg",
+  "name": "Hungary road sign C-048",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-048.svg"
+ },
+ {
+  "code": "C-049",
+  "file": "Hungary_road_sign_C-049.svg",
+  "name": "Hungary road sign C-049",
+  "description": "Prohibitory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_C-049.svg"
+ },
+ {
+  "code": "D-001",
+  "file": "Hungary_road_sign_D-001.svg",
+  "name": "Hungary road sign D-001",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-001.svg"
+ },
+ {
+  "code": "D-002",
+  "file": "Hungary_road_sign_D-002.svg",
+  "name": "Hungary road sign D-002",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-002.svg"
+ },
+ {
+  "code": "D-003",
+  "file": "Hungary_road_sign_D-003.svg",
+  "name": "Hungary road sign D-003",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-003.svg"
+ },
+ {
+  "code": "D-004",
+  "file": "Hungary_road_sign_D-004.svg",
+  "name": "Hungary road sign D-004",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-004.svg"
+ },
+ {
+  "code": "D-005",
+  "file": "Hungary_road_sign_D-005.svg",
+  "name": "Hungary road sign D-005",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-005.svg"
+ },
+ {
+  "code": "D-006",
+  "file": "Hungary_road_sign_D-006.svg",
+  "name": "Hungary road sign D-006",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-006.svg"
+ },
+ {
+  "code": "D-007",
+  "file": "Hungary_road_sign_D-007.svg",
+  "name": "Hungary road sign D-007",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-007.svg"
+ },
+ {
+  "code": "D-008",
+  "file": "Hungary_road_sign_D-008.svg",
+  "name": "Hungary road sign D-008",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-008.svg"
+ },
+ {
+  "code": "D-009",
+  "file": "Hungary_road_sign_D-009.svg",
+  "name": "Hungary road sign D-009",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-009.svg"
+ },
+ {
+  "code": "D-010",
+  "file": "Hungary_road_sign_D-010.svg",
+  "name": "Hungary road sign D-010",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-010.svg"
+ },
+ {
+  "code": "D-011",
+  "file": "Hungary_road_sign_D-011.svg",
+  "name": "Hungary road sign D-011",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-011.svg"
+ },
+ {
+  "code": "D-012",
+  "file": "Hungary_road_sign_D-012.svg",
+  "name": "Hungary road sign D-012",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-012.svg"
+ },
+ {
+  "code": "D-013",
+  "file": "Hungary_road_sign_D-013.svg",
+  "name": "Hungary road sign D-013",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-013.svg"
+ },
+ {
+  "code": "D-014",
+  "file": "Hungary_road_sign_D-014.svg",
+  "name": "Hungary road sign D-014",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-014.svg"
+ },
+ {
+  "code": "D-015",
+  "file": "Hungary_road_sign_D-015.svg",
+  "name": "Hungary road sign D-015",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-015.svg"
+ },
+ {
+  "code": "D-016",
+  "file": "Hungary_road_sign_D-016.svg",
+  "name": "Hungary road sign D-016",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-016.svg"
+ },
+ {
+  "code": "D-017",
+  "file": "Hungary_road_sign_D-017.svg",
+  "name": "Hungary road sign D-017",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-017.svg"
+ },
+ {
+  "code": "D-018",
+  "file": "Hungary_road_sign_D-018.svg",
+  "name": "Hungary road sign D-018",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-018.svg"
+ },
+ {
+  "code": "D-019",
+  "file": "Hungary_road_sign_D-019.svg",
+  "name": "Hungary road sign D-019",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-019.svg"
+ },
+ {
+  "code": "D-020",
+  "file": "Hungary_road_sign_D-020.svg",
+  "name": "Hungary road sign D-020",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-020.svg"
+ },
+ {
+  "code": "D-021",
+  "file": "Hungary_road_sign_D-021.svg",
+  "name": "Hungary road sign D-021",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-021.svg"
+ },
+ {
+  "code": "D-022",
+  "file": "Hungary_road_sign_D-022.svg",
+  "name": "Hungary road sign D-022",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-022.svg"
+ },
+ {
+  "code": "D-023",
+  "file": "Hungary_road_sign_D-023.svg",
+  "name": "Hungary road sign D-023",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-023.svg"
+ },
+ {
+  "code": "D-024",
+  "file": "Hungary_road_sign_D-024.svg",
+  "name": "Hungary road sign D-024",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-024.svg"
+ },
+ {
+  "code": "D-025",
+  "file": "Hungary_road_sign_D-025.svg",
+  "name": "Hungary road sign D-025",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-025.svg"
+ },
+ {
+  "code": "D-026",
+  "file": "Hungary_road_sign_D-026.svg",
+  "name": "Hungary road sign D-026",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-026.svg"
+ },
+ {
+  "code": "D-027",
+  "file": "Hungary_road_sign_D-027.svg",
+  "name": "Hungary road sign D-027",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-027.svg"
+ },
+ {
+  "code": "D-028",
+  "file": "Hungary_road_sign_D-028.svg",
+  "name": "Hungary road sign D-028",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-028.svg"
+ },
+ {
+  "code": "D-029",
+  "file": "Hungary_road_sign_D-029.svg",
+  "name": "Hungary road sign D-029",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-029.svg"
+ },
+ {
+  "code": "D-030",
+  "file": "Hungary_road_sign_D-030.svg",
+  "name": "Hungary road sign D-030",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-030.svg"
+ },
+ {
+  "code": "D-031",
+  "file": "Hungary_road_sign_D-031.svg",
+  "name": "Hungary road sign D-031",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-031.svg"
+ },
+ {
+  "code": "D-032",
+  "file": "Hungary_road_sign_D-032.svg",
+  "name": "Hungary road sign D-032",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-032.svg"
+ },
+ {
+  "code": "D-033",
+  "file": "Hungary_road_sign_D-033.svg",
+  "name": "Hungary road sign D-033",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-033.svg"
+ },
+ {
+  "code": "D-034",
+  "file": "Hungary_road_sign_D-034.svg",
+  "name": "Hungary road sign D-034",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-034.svg"
+ },
+ {
+  "code": "D-037",
+  "file": "Hungary_road_sign_D-037.svg",
+  "name": "Hungary road sign D-037",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-037.svg"
+ },
+ {
+  "code": "D-038",
+  "file": "Hungary_road_sign_D-038.svg",
+  "name": "Hungary road sign D-038",
+  "description": "Mandatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_D-038.svg"
+ },
+ {
+  "code": "E-001",
+  "file": "Hungary_road_sign_E-001.svg",
+  "name": "Hungary road sign E-001",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-001.svg"
+ },
+ {
+  "code": "E-002",
+  "file": "Hungary_road_sign_E-002.svg",
+  "name": "Hungary road sign E-002",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-002.svg"
+ },
+ {
+  "code": "E-003",
+  "file": "Hungary_road_sign_E-003.svg",
+  "name": "Hungary road sign E-003",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-003.svg"
+ },
+ {
+  "code": "E-004",
+  "file": "Hungary_road_sign_E-004.svg",
+  "name": "Hungary road sign E-004",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-004.svg"
+ },
+ {
+  "code": "E-005",
+  "file": "Hungary_road_sign_E-005.svg",
+  "name": "Hungary road sign E-005",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-005.svg"
+ },
+ {
+  "code": "E-006",
+  "file": "Hungary_road_sign_E-006.svg",
+  "name": "Hungary road sign E-006",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-006.svg"
+ },
+ {
+  "code": "E-007",
+  "file": "Hungary_road_sign_E-007.svg",
+  "name": "Hungary road sign E-007",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-007.svg"
+ },
+ {
+  "code": "E-008",
+  "file": "Hungary_road_sign_E-008.svg",
+  "name": "Hungary road sign E-008",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-008.svg"
+ },
+ {
+  "code": "E-009",
+  "file": "Hungary_road_sign_E-009.svg",
+  "name": "Hungary road sign E-009",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-009.svg"
+ },
+ {
+  "code": "E-010",
+  "file": "Hungary_road_sign_E-010.svg",
+  "name": "Hungary road sign E-010",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-010.svg"
+ },
+ {
+  "code": "E-011",
+  "file": "Hungary_road_sign_E-011.svg",
+  "name": "Hungary road sign E-011",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-011.svg"
+ },
+ {
+  "code": "E-012",
+  "file": "Hungary_road_sign_E-012.svg",
+  "name": "Hungary road sign E-012",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-012.svg"
+ },
+ {
+  "code": "E-013",
+  "file": "Hungary_road_sign_E-013.svg",
+  "name": "Hungary road sign E-013",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-013.svg"
+ },
+ {
+  "code": "E-014",
+  "file": "Hungary_road_sign_E-014.svg",
+  "name": "Hungary road sign E-014",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-014.svg"
+ },
+ {
+  "code": "E-015",
+  "file": "Hungary_road_sign_E-015.svg",
+  "name": "Hungary road sign E-015",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-015.svg"
+ },
+ {
+  "code": "E-016",
+  "file": "Hungary_road_sign_E-016.svg",
+  "name": "Hungary road sign E-016",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-016.svg"
+ },
+ {
+  "code": "E-017",
+  "file": "Hungary_road_sign_E-017.svg",
+  "name": "Hungary road sign E-017",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-017.svg"
+ },
+ {
+  "code": "E-018",
+  "file": "Hungary_road_sign_E-018.svg",
+  "name": "Hungary road sign E-018",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-018.svg"
+ },
+ {
+  "code": "E-019",
+  "file": "Hungary_road_sign_E-019.svg",
+  "name": "Hungary road sign E-019",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-019.svg"
+ },
+ {
+  "code": "E-020",
+  "file": "Hungary_road_sign_E-020.svg",
+  "name": "Hungary road sign E-020",
+  "description": "Lakott terület kezdete.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-020.svg"
+ },
+ {
+  "code": "E-021",
+  "file": "Hungary_road_sign_E-021.svg",
+  "name": "Hungary road sign E-021",
+  "description": "Lakott terület vége.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-021.svg"
+ },
+ {
+  "code": "E-022",
+  "file": "Hungary_road_sign_E-022.svg",
+  "name": "Hungary road sign E-022",
+  "description": "Lakott terület kezdete.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-022.svg"
+ },
+ {
+  "code": "E-023",
+  "file": "Hungary_road_sign_E-023.svg",
+  "name": "Hungary road sign E-023",
+  "description": "Lakott terület vége.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-023.svg"
+ },
+ {
+  "code": "E-024",
+  "file": "Hungary_road_sign_E-024.svg",
+  "name": "Hungary road sign E-024",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-024.svg"
+ },
+ {
+  "code": "E-025",
+  "file": "Hungary_road_sign_E-025.svg",
+  "name": "Hungary road sign E-025",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-025.svg"
+ },
+ {
+  "code": "E-026",
+  "file": "Hungary_road_sign_E-026.svg",
+  "name": "Hungary road sign E-026",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-026.svg"
+ },
+ {
+  "code": "E-027",
+  "file": "Hungary_road_sign_E-027.svg",
+  "name": "Hungary road sign E-027",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-027.svg"
+ },
+ {
+  "code": "E-028",
+  "file": "Hungary_road_sign_E-028.svg",
+  "name": "Hungary road sign E-028",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-028.svg"
+ },
+ {
+  "code": "E-029",
+  "file": "Hungary_road_sign_E-029.svg",
+  "name": "Hungary road sign E-029",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-029.svg"
+ },
+ {
+  "code": "E-030",
+  "file": "Hungary_road_sign_E-030.svg",
+  "name": "Hungary road sign E-030",
+  "description": "Limited weight zone road sign. Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-030.svg"
+ },
+ {
+  "code": "E-031",
+  "file": "Hungary_road_sign_E-031.svg",
+  "name": "Hungary road sign E-031",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-031.svg"
+ },
+ {
+  "code": "E-032",
+  "file": "Hungary_road_sign_E-032.svg",
+  "name": "Hungary road sign E-032",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-032.svg"
+ },
+ {
+  "code": "E-033",
+  "file": "Hungary_road_sign_E-033.svg",
+  "name": "Hungary road sign E-033",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-033.svg"
+ },
+ {
+  "code": "E-034",
+  "file": "Hungary_road_sign_E-034.svg",
+  "name": "Hungary road sign E-034",
+  "description": "Parking zone sign. Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-034.svg"
+ },
+ {
+  "code": "E-035",
+  "file": "Hungary_road_sign_E-035.svg",
+  "name": "Hungary road sign E-035",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-035.svg"
+ },
+ {
+  "code": "E-036",
+  "file": "Hungary_road_sign_E-036.svg",
+  "name": "Hungary road sign E-036",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-036.svg"
+ },
+ {
+  "code": "E-037",
+  "file": "Hungary_road_sign_E-037.svg",
+  "name": "Hungary road sign E-037",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-037.svg"
+ },
+ {
+  "code": "E-038",
+  "file": "Hungary_road_sign_E-038.svg",
+  "name": "Hungary road sign E-038",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-038.svg"
+ },
+ {
+  "code": "E-039",
+  "file": "Hungary_road_sign_E-039.svg",
+  "name": "Hungary road sign E-039",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-039.svg"
+ },
+ {
+  "code": "E-040",
+  "file": "Hungary_road_sign_E-040.svg",
+  "name": "Hungary road sign E-040",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-040.svg"
+ },
+ {
+  "code": "E-041",
+  "file": "Hungary_road_sign_E-041.svg",
+  "name": "Hungary road sign E-041",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-041.svg"
+ },
+ {
+  "code": "E-042",
+  "file": "Hungary_road_sign_E-042.svg",
+  "name": "Hungary road sign E-042",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-042.svg"
+ },
+ {
+  "code": "E-043",
+  "file": "Hungary_road_sign_E-043.svg",
+  "name": "Hungary road sign E-043",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-043.svg"
+ },
+ {
+  "code": "E-044",
+  "file": "Hungary_road_sign_E-044.svg",
+  "name": "Hungary road sign E-044",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-044.svg"
+ },
+ {
+  "code": "E-045",
+  "file": "Hungary_road_sign_E-045.svg",
+  "name": "Hungary road sign E-045",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-045.svg"
+ },
+ {
+  "code": "E-046",
+  "file": "Hungary_road_sign_E-046.svg",
+  "name": "Hungary road sign E-046",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-046.svg"
+ },
+ {
+  "code": "E-047",
+  "file": "Hungary_road_sign_E-047.svg",
+  "name": "Hungary road sign E-047",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-047.svg"
+ },
+ {
+  "code": "E-048",
+  "file": "Hungary_road_sign_E-048.svg",
+  "name": "Hungary road sign E-048",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-048.svg"
+ },
+ {
+  "code": "E-049",
+  "file": "Hungary_road_sign_E-049.svg",
+  "name": "Hungary road sign E-049",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-049.svg"
+ },
+ {
+  "code": "E-050",
+  "file": "Hungary_road_sign_E-050.svg",
+  "name": "Hungary road sign E-050",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-050.svg"
+ },
+ {
+  "code": "E-051",
+  "file": "Hungary_road_sign_E-051.svg",
+  "name": "Hungary road sign E-051",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-051.svg"
+ },
+ {
+  "code": "E-052",
+  "file": "Hungary_road_sign_E-052.svg",
+  "name": "Hungary road sign E-052",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-052.svg"
+ },
+ {
+  "code": "E-053",
+  "file": "Hungary_road_sign_E-053.svg",
+  "name": "Hungary road sign E-053",
+  "description": "Park and Ride Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-053.svg"
+ },
+ {
+  "code": "E-054",
+  "file": "Hungary_road_sign_E-054.svg",
+  "name": "Hungary road sign E-054",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-054.svg"
+ },
+ {
+  "code": "E-060",
+  "file": "Hungary_road_sign_E-060.svg",
+  "name": "Hungary road sign E-060",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_E-060.svg"
+ },
+ {
+  "code": "E573-HUN",
+  "file": "E573-HUN.svg",
+  "name": "E573-HUN",
+  "description": "E573 v Maďarsku",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:E573-HUN.svg"
+ },
+ {
+  "code": "E579-HUN",
+  "file": "E579-HUN.svg",
+  "name": "E579-HUN",
+  "description": "E579 v Maďarsku",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:E579-HUN.svg"
+ },
+ {
+  "code": "E60-HUN",
+  "file": "E60-HUN.svg",
+  "name": "E60-HUN",
+  "description": "Sign of E60 in Hungary",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:E60-HUN.svg"
+ },
+ {
+  "code": "E65-HUN",
+  "file": "E65-HUN.svg",
+  "name": "E65-HUN",
+  "description": "E65 v Maďarsku",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:E65-HUN.svg"
+ },
+ {
+  "code": "E653-HUN",
+  "file": "E653-HUN.svg",
+  "name": "E653-HUN",
+  "description": "Sign of E653 in Hungary",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:E653-HUN.svg"
+ },
+ {
+  "code": "E66-HUN",
+  "file": "E66-HUN.svg",
+  "name": "E66-HUN",
+  "description": "Sign of E66 in Hungary",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:E66-HUN.svg"
+ },
+ {
+  "code": "E661-HUN",
+  "file": "E661-HUN.svg",
+  "name": "E661-HUN",
+  "description": "Sign of E661 in Hungary",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:E661-HUN.svg"
+ },
+ {
+  "code": "E68-HUN",
+  "file": "E68-HUN.svg",
+  "name": "E68-HUN",
+  "description": "Sign of E68 in Hungary",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:E68-HUN.svg"
+ },
+ {
+  "code": "E71-HUN",
+  "file": "E71-HUN.svg",
+  "name": "E71-HUN",
+  "description": "E71 v Maďarsku",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:E71-HUN.svg"
+ },
+ {
+  "code": "E73-HUN",
+  "file": "E73-HUN.svg",
+  "name": "E73-HUN",
+  "description": "E73 v Maďarsku",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:E73-HUN.svg"
+ },
+ {
+  "code": "E75-HUN",
+  "file": "E75-HUN.svg",
+  "name": "E75-HUN",
+  "description": "E75 v Maďarsku",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:E75-HUN.svg"
+ },
+ {
+  "code": "E77-HUN",
+  "file": "E77-HUN.svg",
+  "name": "E77-HUN",
+  "description": "E77 in Hungary",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:E77-HUN.svg"
+ },
+ {
+  "code": "E79-HUN",
+  "file": "E79-HUN.svg",
+  "name": "E79-HUN",
+  "description": "E79 v Maďarsku",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:E79-HUN.svg"
+ },
+ {
+  "code": "F-001",
+  "file": "Hungary_road_sign_F-001.svg",
+  "name": "Hungary road sign F-001",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-001.svg"
+ },
+ {
+  "code": "F-002",
+  "file": "Hungary_road_sign_F-002.svg",
+  "name": "Hungary road sign F-002",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-002.svg"
+ },
+ {
+  "code": "F-003",
+  "file": "Hungary_road_sign_F-003.svg",
+  "name": "Hungary road sign F-003",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-003.svg"
+ },
+ {
+  "code": "F-004",
+  "file": "Hungary_road_sign_F-004.svg",
+  "name": "Hungary road sign F-004",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-004.svg"
+ },
+ {
+  "code": "F-005",
+  "file": "Hungary_road_sign_F-005.svg",
+  "name": "Hungary road sign F-005",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-005.svg"
+ },
+ {
+  "code": "F-006",
+  "file": "Hungary_road_sign_F-006.svg",
+  "name": "Hungary road sign F-006",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-006.svg"
+ },
+ {
+  "code": "F-007",
+  "file": "Hungary_road_sign_F-007.svg",
+  "name": "Hungary road sign F-007",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-007.svg"
+ },
+ {
+  "code": "F-008",
+  "file": "Hungary_road_sign_F-008.svg",
+  "name": "Hungary road sign F-008",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-008.svg"
+ },
+ {
+  "code": "F-009",
+  "file": "Hungary_road_sign_F-009.svg",
+  "name": "Hungary road sign F-009",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-009.svg"
+ },
+ {
+  "code": "F-010",
+  "file": "Hungary_road_sign_F-010.svg",
+  "name": "Hungary road sign F-010",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-010.svg"
+ },
+ {
+  "code": "F-011",
+  "file": "Hungary_road_sign_F-011.svg",
+  "name": "Hungary road sign F-011",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-011.svg"
+ },
+ {
+  "code": "F-012",
+  "file": "Hungary_road_sign_F-012.svg",
+  "name": "Hungary road sign F-012",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-012.svg"
+ },
+ {
+  "code": "F-013",
+  "file": "Hungary_road_sign_F-013.svg",
+  "name": "Hungary road sign F-013",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-013.svg"
+ },
+ {
+  "code": "F-014",
+  "file": "Hungary_road_sign_F-014.svg",
+  "name": "Hungary road sign F-014",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-014.svg"
+ },
+ {
+  "code": "F-015",
+  "file": "Hungary_road_sign_F-015.svg",
+  "name": "Hungary road sign F-015",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-015.svg"
+ },
+ {
+  "code": "F-016",
+  "file": "Hungary_road_sign_F-016.svg",
+  "name": "Hungary road sign F-016",
+  "description": "Hungarian road sign. - Filling station with also unleaded fuel",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-016.svg"
+ },
+ {
+  "code": "F-017",
+  "file": "Hungary_road_sign_F-017.svg",
+  "name": "Hungary road sign F-017",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-017.svg"
+ },
+ {
+  "code": "F-018",
+  "file": "Hungary_road_sign_F-018.svg",
+  "name": "Hungary road sign F-018",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-018.svg"
+ },
+ {
+  "code": "F-019",
+  "file": "Hungary_road_sign_F-019.svg",
+  "name": "Hungary road sign F-019",
+  "description": "Train station Hungarian informatory road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-019.svg"
+ },
+ {
+  "code": "F-020",
+  "file": "Hungary_road_sign_F-020.svg",
+  "name": "Hungary road sign F-020",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-020.svg"
+ },
+ {
+  "code": "F-021",
+  "file": "Hungary_road_sign_F-021.svg",
+  "name": "Hungary road sign F-021",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-021.svg"
+ },
+ {
+  "code": "F-022",
+  "file": "Hungary_road_sign_F-022.svg",
+  "name": "Hungary road sign F-022",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-022.svg"
+ },
+ {
+  "code": "F-023",
+  "file": "Hungary_road_sign_F-023.svg",
+  "name": "Hungary road sign F-023",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-023.svg"
+ },
+ {
+  "code": "F-024",
+  "file": "Hungary_road_sign_F-024.svg",
+  "name": "Hungary road sign F-024",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-024.svg"
+ },
+ {
+  "code": "F-025",
+  "file": "Hungary_road_sign_F-025.svg",
+  "name": "Hungary road sign F-025",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-025.svg"
+ },
+ {
+  "code": "F-026",
+  "file": "Hungary_road_sign_F-026.svg",
+  "name": "Hungary road sign F-026",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-026.svg"
+ },
+ {
+  "code": "F-027",
+  "file": "Hungary_road_sign_F-027.svg",
+  "name": "Hungary road sign F-027",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-027.svg"
+ },
+ {
+  "code": "F-028",
+  "file": "Hungary_road_sign_F-028.svg",
+  "name": "Hungary road sign F-028",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-028.svg"
+ },
+ {
+  "code": "F-029",
+  "file": "Hungary_road_sign_F-029.svg",
+  "name": "Hungary road sign F-029",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-029.svg"
+ },
+ {
+  "code": "F-030",
+  "file": "Hungary_road_sign_F-030.svg",
+  "name": "Hungary road sign F-030",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-030.svg"
+ },
+ {
+  "code": "F-031",
+  "file": "Hungary_road_sign_F-031.svg",
+  "name": "Hungary road sign F-031",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-031.svg"
+ },
+ {
+  "code": "F-035",
+  "file": "Hungary_road_sign_F-035.svg",
+  "name": "Hungary road sign F-035",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-035.svg"
+ },
+ {
+  "code": "F-036",
+  "file": "Hungary_road_sign_F-036.svg",
+  "name": "Hungary road sign F-036",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-036.svg"
+ },
+ {
+  "code": "F-037",
+  "file": "Hungary_road_sign_F-037.svg",
+  "name": "Hungary road sign F-037",
+  "description": "Hungarian indication service road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_F-037.svg"
+ },
+ {
+  "code": "G-003",
+  "file": "Hungary_road_sign_G-003.svg",
+  "name": "Hungary road sign G-003",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-003.svg"
+ },
+ {
+  "code": "G-004",
+  "file": "Hungary_road_sign_G-004.svg",
+  "name": "Hungary road sign G-004",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-004.svg"
+ },
+ {
+  "code": "G-076",
+  "file": "Hungary_road_sign_G-076.svg",
+  "name": "Hungary road sign G-076",
+  "description": "Útirányjelző tábla.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-076.svg"
+ },
+ {
+  "code": "G-079_2",
+  "file": "Hungary_road_sign_G-079_2.svg",
+  "name": "Hungary road sign G-079 2",
+  "description": "Útirányjelző tábla",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-079_2.svg"
+ },
+ {
+  "code": "G-106",
+  "file": "Hungary_road_sign_G-106.svg",
+  "name": "Hungary road sign G-106",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-106.svg"
+ },
+ {
+  "code": "G-202",
+  "file": "Hungary_road_sign_G-202.svg",
+  "name": "Hungary road sign G-202",
+  "description": "Helynévtábla - megye.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-202.svg"
+ },
+ {
+  "code": "G-205",
+  "file": "Hungary_road_sign_G-205.svg",
+  "name": "Hungary road sign G-205",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-205.svg"
+ },
+ {
+  "code": "G-301",
+  "file": "Hungary_road_sign_G-301.svg",
+  "name": "Hungary road sign G-301",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-301.svg"
+ },
+ {
+  "code": "G-302",
+  "file": "Hungary_road_sign_G-302.svg",
+  "name": "Hungary road sign G-302",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-302.svg"
+ },
+ {
+  "code": "G-305",
+  "file": "Hungary_road_sign_G-305.svg",
+  "name": "Hungary road sign G-305",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-305.svg"
+ },
+ {
+  "code": "G-306",
+  "file": "Hungary_road_sign_G-306.svg",
+  "name": "Hungary road sign G-306",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-306.svg"
+ },
+ {
+  "code": "G-307",
+  "file": "Hungary_road_sign_G-307.svg",
+  "name": "Hungary road sign G-307",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-307.svg"
+ },
+ {
+  "code": "G-308",
+  "file": "Hungary_road_sign_G-308.svg",
+  "name": "Hungary road sign G-308",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-308.svg"
+ },
+ {
+  "code": "G-312",
+  "file": "Hungary_road_sign_G-312.svg",
+  "name": "Hungary road sign G-312",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-312.svg"
+ },
+ {
+  "code": "G-313",
+  "file": "Hungary_road_sign_G-313.svg",
+  "name": "Hungary road sign G-313",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-313.svg"
+ },
+ {
+  "code": "G-351",
+  "file": "Hungary_road_sign_G-351.svg",
+  "name": "Hungary road sign G-351",
+  "description": "Útirány előjelző tábla - kijárat.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-351.svg"
+ },
+ {
+  "code": "G-401",
+  "file": "Hungary_road_sign_G-401.svg",
+  "name": "Hungary road sign G-401",
+  "description": "Informatory Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-401.svg"
+ },
+ {
+  "code": "G-653",
+  "file": "Hungary_road_sign_G-653.svg",
+  "name": "Hungary road sign G-653",
+  "description": "Útvonal megerősítő tábla.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_G-653.svg"
+ },
+ {
+  "code": "H-001",
+  "file": "Hungary_road_sign_H-001.svg",
+  "name": "Hungary road sign H-001",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-001.svg"
+ },
+ {
+  "code": "H-002",
+  "file": "Hungary_road_sign_H-002.svg",
+  "name": "Hungary road sign H-002",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-002.svg"
+ },
+ {
+  "code": "H-003",
+  "file": "Hungary_road_sign_H-003.svg",
+  "name": "Hungary road sign H-003",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-003.svg"
+ },
+ {
+  "code": "H-004",
+  "file": "Hungary_road_sign_H-004.svg",
+  "name": "Hungary road sign H-004",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-004.svg"
+ },
+ {
+  "code": "H-005",
+  "file": "Hungary_road_sign_H-005.svg",
+  "name": "Hungary road sign H-005",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-005.svg"
+ },
+ {
+  "code": "H-006",
+  "file": "Hungary_road_sign_H-006.svg",
+  "name": "Hungary road sign H-006",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-006.svg"
+ },
+ {
+  "code": "H-007",
+  "file": "Hungary_road_sign_H-007.svg",
+  "name": "Hungary road sign H-007",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-007.svg"
+ },
+ {
+  "code": "H-008",
+  "file": "Hungary_road_sign_H-008.svg",
+  "name": "Hungary road sign H-008",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-008.svg"
+ },
+ {
+  "code": "H-009",
+  "file": "Hungary_road_sign_H-009.svg",
+  "name": "Hungary road sign H-009",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-009.svg"
+ },
+ {
+  "code": "H-010",
+  "file": "Hungary_road_sign_H-010.svg",
+  "name": "Hungary road sign H-010",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-010.svg"
+ },
+ {
+  "code": "H-011",
+  "file": "Hungary_road_sign_H-011.svg",
+  "name": "Hungary road sign H-011",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-011.svg"
+ },
+ {
+  "code": "H-012",
+  "file": "Hungary_road_sign_H-012.svg",
+  "name": "Hungary road sign H-012",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-012.svg"
+ },
+ {
+  "code": "H-013",
+  "file": "Hungary_road_sign_H-013.svg",
+  "name": "Hungary road sign H-013",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-013.svg"
+ },
+ {
+  "code": "H-014",
+  "file": "Hungary_road_sign_H-014.svg",
+  "name": "Hungary road sign H-014",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-014.svg"
+ },
+ {
+  "code": "H-015",
+  "file": "Hungary_road_sign_H-015.svg",
+  "name": "Hungary road sign H-015",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-015.svg"
+ },
+ {
+  "code": "H-016",
+  "file": "Hungary_road_sign_H-016.svg",
+  "name": "Hungary road sign H-016",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-016.svg"
+ },
+ {
+  "code": "H-017",
+  "file": "Hungary_road_sign_H-017.svg",
+  "name": "Hungary road sign H-017",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-017.svg"
+ },
+ {
+  "code": "H-018",
+  "file": "Hungary_road_sign_H-018.svg",
+  "name": "Hungary road sign H-018",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-018.svg"
+ },
+ {
+  "code": "H-019",
+  "file": "Hungary_road_sign_H-019.svg",
+  "name": "Hungary road sign H-019",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-019.svg"
+ },
+ {
+  "code": "H-020",
+  "file": "Hungary_road_sign_H-020.svg",
+  "name": "Hungary road sign H-020",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-020.svg"
+ },
+ {
+  "code": "H-021",
+  "file": "Hungary_road_sign_H-021.svg",
+  "name": "Hungary road sign H-021",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-021.svg"
+ },
+ {
+  "code": "H-022",
+  "file": "Hungary_road_sign_H-022.svg",
+  "name": "Hungary road sign H-022",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-022.svg"
+ },
+ {
+  "code": "H-023",
+  "file": "Hungary_road_sign_H-023.svg",
+  "name": "Hungary road sign H-023",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-023.svg"
+ },
+ {
+  "code": "H-024",
+  "file": "Hungary_road_sign_H-024.svg",
+  "name": "Hungary road sign H-024",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-024.svg"
+ },
+ {
+  "code": "H-025",
+  "file": "Hungary_road_sign_H-025.svg",
+  "name": "Hungary road sign H-025",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-025.svg"
+ },
+ {
+  "code": "H-026",
+  "file": "Hungary_road_sign_H-026.svg",
+  "name": "Hungary road sign H-026",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-026.svg"
+ },
+ {
+  "code": "H-027",
+  "file": "Hungary_road_sign_H-027.svg",
+  "name": "Hungary road sign H-027",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-027.svg"
+ },
+ {
+  "code": "H-028",
+  "file": "Hungary_road_sign_H-028.svg",
+  "name": "Hungary road sign H-028",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-028.svg"
+ },
+ {
+  "code": "H-029",
+  "file": "Hungary_road_sign_H-029.svg",
+  "name": "Hungary road sign H-029",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-029.svg"
+ },
+ {
+  "code": "H-030",
+  "file": "Hungary_road_sign_H-030.svg",
+  "name": "Hungary road sign H-030",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-030.svg"
+ },
+ {
+  "code": "H-031",
+  "file": "Hungary_road_sign_H-031.svg",
+  "name": "Hungary road sign H-031",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-031.svg"
+ },
+ {
+  "code": "H-032",
+  "file": "Hungary_road_sign_H-032.svg",
+  "name": "Hungary road sign H-032",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-032.svg"
+ },
+ {
+  "code": "H-033",
+  "file": "Hungary_road_sign_H-033.svg",
+  "name": "Hungary road sign H-033",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-033.svg"
+ },
+ {
+  "code": "H-034",
+  "file": "Hungary_road_sign_H-034.svg",
+  "name": "Hungary road sign H-034",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-034.svg"
+ },
+ {
+  "code": "H-035",
+  "file": "Hungary_road_sign_H-035.svg",
+  "name": "Hungary road sign H-035",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-035.svg"
+ },
+ {
+  "code": "H-036",
+  "file": "Hungary_road_sign_H-036.svg",
+  "name": "Hungary road sign H-036",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-036.svg"
+ },
+ {
+  "code": "H-037",
+  "file": "Hungary_road_sign_H-037.svg",
+  "name": "Hungary road sign H-037",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-037.svg"
+ },
+ {
+  "code": "H-038",
+  "file": "Hungary_road_sign_H-038.svg",
+  "name": "Hungary road sign H-038",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-038.svg"
+ },
+ {
+  "code": "H-039",
+  "file": "Hungary_road_sign_H-039.svg",
+  "name": "Hungary road sign H-039",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-039.svg"
+ },
+ {
+  "code": "H-040",
+  "file": "Hungary_road_sign_H-040.svg",
+  "name": "Hungary road sign H-040",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-040.svg"
+ },
+ {
+  "code": "H-041",
+  "file": "Hungary_road_sign_H-041.svg",
+  "name": "Hungary road sign H-041",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-041.svg"
+ },
+ {
+  "code": "H-042",
+  "file": "Hungary_road_sign_H-042.svg",
+  "name": "Hungary road sign H-042",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-042.svg"
+ },
+ {
+  "code": "H-043",
+  "file": "Hungary_road_sign_H-043.svg",
+  "name": "Hungary road sign H-043",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-043.svg"
+ },
+ {
+  "code": "H-044",
+  "file": "Hungary_road_sign_H-044.svg",
+  "name": "Hungary road sign H-044",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-044.svg"
+ },
+ {
+  "code": "H-045",
+  "file": "Hungary_road_sign_H-045.svg",
+  "name": "Hungary road sign H-045",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-045.svg"
+ },
+ {
+  "code": "H-046",
+  "file": "Hungary_road_sign_H-046.svg",
+  "name": "Hungary road sign H-046",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-046.svg"
+ },
+ {
+  "code": "H-047",
+  "file": "Hungary_road_sign_H-047.svg",
+  "name": "Hungary road sign H-047",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-047.svg"
+ },
+ {
+  "code": "H-048",
+  "file": "Hungary_road_sign_H-048.svg",
+  "name": "Hungary road sign H-048",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-048.svg"
+ },
+ {
+  "code": "H-049",
+  "file": "Hungary_road_sign_H-049.svg",
+  "name": "Hungary road sign H-049",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-049.svg"
+ },
+ {
+  "code": "H-050",
+  "file": "Hungary_road_sign_H-050.svg",
+  "name": "Hungary road sign H-050",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-050.svg"
+ },
+ {
+  "code": "H-051",
+  "file": "Hungary_road_sign_H-051.svg",
+  "name": "Hungary road sign H-051",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-051.svg"
+ },
+ {
+  "code": "H-052",
+  "file": "Hungary_road_sign_H-052.svg",
+  "name": "Hungary road sign H-052",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-052.svg"
+ },
+ {
+  "code": "H-053",
+  "file": "Hungary_road_sign_H-053.svg",
+  "name": "Hungary road sign H-053",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-053.svg"
+ },
+ {
+  "code": "H-054",
+  "file": "Hungary_road_sign_H-054.svg",
+  "name": "Hungary road sign H-054",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-054.svg"
+ },
+ {
+  "code": "H-055",
+  "file": "Hungary_road_sign_H-055.svg",
+  "name": "Hungary road sign H-055",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-055.svg"
+ },
+ {
+  "code": "H-056",
+  "file": "Hungary_road_sign_H-056.svg",
+  "name": "Hungary road sign H-056",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-056.svg"
+ },
+ {
+  "code": "H-057",
+  "file": "Hungary_road_sign_H-057.svg",
+  "name": "Hungary road sign H-057",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-057.svg"
+ },
+ {
+  "code": "H-058",
+  "file": "Hungary_road_sign_H-058.svg",
+  "name": "Hungary road sign H-058",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-058.svg"
+ },
+ {
+  "code": "H-059",
+  "file": "Hungary_road_sign_H-059.svg",
+  "name": "Hungary road sign H-059",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-059.svg"
+ },
+ {
+  "code": "H-060",
+  "file": "Hungary_road_sign_H-060.svg",
+  "name": "Hungary road sign H-060",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-060.svg"
+ },
+ {
+  "code": "H-061",
+  "file": "Hungary_road_sign_H-061.svg",
+  "name": "Hungary road sign H-061",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-061.svg"
+ },
+ {
+  "code": "H-062",
+  "file": "Hungary_road_sign_H-062.svg",
+  "name": "Hungary road sign H-062",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-062.svg"
+ },
+ {
+  "code": "H-063",
+  "file": "Hungary_road_sign_H-063.svg",
+  "name": "Hungary road sign H-063",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-063.svg"
+ },
+ {
+  "code": "H-064",
+  "file": "Hungary_road_sign_H-064.svg",
+  "name": "Hungary road sign H-064",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-064.svg"
+ },
+ {
+  "code": "H-065",
+  "file": "Hungary_road_sign_H-065.svg",
+  "name": "Hungary road sign H-065",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-065.svg"
+ },
+ {
+  "code": "H-066",
+  "file": "Hungary_road_sign_H-066.svg",
+  "name": "Hungary road sign H-066",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-066.svg"
+ },
+ {
+  "code": "H-067",
+  "file": "Hungary_road_sign_H-067.svg",
+  "name": "Hungary road sign H-067",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-067.svg"
+ },
+ {
+  "code": "H-068",
+  "file": "Hungary_road_sign_H-068.svg",
+  "name": "Hungary road sign H-068",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-068.svg"
+ },
+ {
+  "code": "H-069",
+  "file": "Hungary_road_sign_H-069.svg",
+  "name": "Hungary road sign H-069",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-069.svg"
+ },
+ {
+  "code": "H-070",
+  "file": "Hungary_road_sign_H-070.svg",
+  "name": "Hungary road sign H-070",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-070.svg"
+ },
+ {
+  "code": "H-071",
+  "file": "Hungary_road_sign_H-071.svg",
+  "name": "Hungary road sign H-071",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-071.svg"
+ },
+ {
+  "code": "H-072",
+  "file": "Hungary_road_sign_H-072.svg",
+  "name": "Hungary road sign H-072",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-072.svg"
+ },
+ {
+  "code": "H-073",
+  "file": "Hungary_road_sign_H-073.svg",
+  "name": "Hungary road sign H-073",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-073.svg"
+ },
+ {
+  "code": "H-074",
+  "file": "Hungary_road_sign_H-074.svg",
+  "name": "Hungary road sign H-074",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-074.svg"
+ },
+ {
+  "code": "H-075",
+  "file": "Hungary_road_sign_H-075.svg",
+  "name": "Hungary road sign H-075",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-075.svg"
+ },
+ {
+  "code": "H-076",
+  "file": "Hungary_road_sign_H-076.svg",
+  "name": "Hungary road sign H-076",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-076.svg"
+ },
+ {
+  "code": "H-077",
+  "file": "Hungary_road_sign_H-077.svg",
+  "name": "Hungary road sign H-077",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-077.svg"
+ },
+ {
+  "code": "H-078",
+  "file": "Hungary_road_sign_H-078.svg",
+  "name": "Hungary road sign H-078",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-078.svg"
+ },
+ {
+  "code": "H-079",
+  "file": "Hungary_road_sign_H-079.svg",
+  "name": "Hungary road sign H-079",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-079.svg"
+ },
+ {
+  "code": "H-080",
+  "file": "Hungary_road_sign_H-080.svg",
+  "name": "Hungary road sign H-080",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-080.svg"
+ },
+ {
+  "code": "H-081",
+  "file": "Hungary_road_sign_H-081.svg",
+  "name": "Hungary road sign H-081",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-081.svg"
+ },
+ {
+  "code": "H-082",
+  "file": "Hungary_road_sign_H-082.svg",
+  "name": "Hungary road sign H-082",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-082.svg"
+ },
+ {
+  "code": "H-083",
+  "file": "Hungary_road_sign_H-083.svg",
+  "name": "Hungary road sign H-083",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-083.svg"
+ },
+ {
+  "code": "H-084",
+  "file": "Hungary_road_sign_H-084.svg",
+  "name": "Hungary road sign H-084",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-084.svg"
+ },
+ {
+  "code": "H-085",
+  "file": "Hungary_road_sign_H-085.svg",
+  "name": "Hungary road sign H-085",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-085.svg"
+ },
+ {
+  "code": "H-086",
+  "file": "Hungary_road_sign_H-086.svg",
+  "name": "Hungary road sign H-086",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-086.svg"
+ },
+ {
+  "code": "H-087",
+  "file": "Hungary_road_sign_H-087.svg",
+  "name": "Hungary road sign H-087",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-087.svg"
+ },
+ {
+  "code": "H-088",
+  "file": "Hungary_road_sign_H-088.svg",
+  "name": "Hungary road sign H-088",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-088.svg"
+ },
+ {
+  "code": "H-089",
+  "file": "Hungary_road_sign_H-089.svg",
+  "name": "Hungary road sign H-089",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-089.svg"
+ },
+ {
+  "code": "H-090",
+  "file": "Hungary_road_sign_H-090.svg",
+  "name": "Hungary road sign H-090",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-090.svg"
+ },
+ {
+  "code": "H-091",
+  "file": "Hungary_road_sign_H-091.svg",
+  "name": "Hungary road sign H-091",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-091.svg"
+ },
+ {
+  "code": "H-092",
+  "file": "Hungary_road_sign_H-092.svg",
+  "name": "Hungary road sign H-092",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-092.svg"
+ },
+ {
+  "code": "H-093",
+  "file": "Hungary_road_sign_H-093.svg",
+  "name": "Hungary road sign H-093",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-093.svg"
+ },
+ {
+  "code": "H-094",
+  "file": "Hungary_road_sign_H-094.svg",
+  "name": "Hungary road sign H-094",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-094.svg"
+ },
+ {
+  "code": "H-095",
+  "file": "Hungary_road_sign_H-095.svg",
+  "name": "Hungary road sign H-095",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-095.svg"
+ },
+ {
+  "code": "H-096",
+  "file": "Hungary_road_sign_H-096.svg",
+  "name": "Hungary road sign H-096",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-096.svg"
+ },
+ {
+  "code": "H-097",
+  "file": "Hungary_road_sign_H-097.svg",
+  "name": "Hungary road sign H-097",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-097.svg"
+ },
+ {
+  "code": "H-098",
+  "file": "Hungary_road_sign_H-098.svg",
+  "name": "Hungary road sign H-098",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-098.svg"
+ },
+ {
+  "code": "H-099",
+  "file": "Hungary_road_sign_H-099.svg",
+  "name": "Hungary road sign H-099",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-099.svg"
+ },
+ {
+  "code": "H-100",
+  "file": "Hungary_road_sign_H-100.svg",
+  "name": "Hungary road sign H-100",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-100.svg"
+ },
+ {
+  "code": "H-101",
+  "file": "Hungary_road_sign_H-101.svg",
+  "name": "Hungary road sign H-101",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-101.svg"
+ },
+ {
+  "code": "H-102",
+  "file": "Hungary_road_sign_H-102.svg",
+  "name": "Hungary road sign H-102",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-102.svg"
+ },
+ {
+  "code": "H-103",
+  "file": "Hungary_road_sign_H-103.svg",
+  "name": "Hungary road sign H-103",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-103.svg"
+ },
+ {
+  "code": "H-104",
+  "file": "Hungary_road_sign_H-104.svg",
+  "name": "Hungary road sign H-104",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-104.svg"
+ },
+ {
+  "code": "H-105",
+  "file": "Hungary_road_sign_H-105.svg",
+  "name": "Hungary road sign H-105",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-105.svg"
+ },
+ {
+  "code": "H-106",
+  "file": "Hungary_road_sign_H-106.svg",
+  "name": "Hungary road sign H-106",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-106.svg"
+ },
+ {
+  "code": "H-107",
+  "file": "Hungary_road_sign_H-107.svg",
+  "name": "Hungary road sign H-107",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-107.svg"
+ },
+ {
+  "code": "H-108",
+  "file": "Hungary_road_sign_H-108.svg",
+  "name": "Hungary road sign H-108",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-108.svg"
+ },
+ {
+  "code": "H-109",
+  "file": "Hungary_road_sign_H-109.svg",
+  "name": "Hungary road sign H-109",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-109.svg"
+ },
+ {
+  "code": "H-110",
+  "file": "Hungary_road_sign_H-110.svg",
+  "name": "Hungary road sign H-110",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-110.svg"
+ },
+ {
+  "code": "H-111",
+  "file": "Hungary_road_sign_H-111.svg",
+  "name": "Hungary road sign H-111",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-111.svg"
+ },
+ {
+  "code": "H-112",
+  "file": "Hungary_road_sign_H-112.svg",
+  "name": "Hungary road sign H-112",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-112.svg"
+ },
+ {
+  "code": "H-113",
+  "file": "Hungary_road_sign_H-113.svg",
+  "name": "Hungary road sign H-113",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-113.svg"
+ },
+ {
+  "code": "H-114",
+  "file": "Hungary_road_sign_H-114.svg",
+  "name": "Hungary road sign H-114",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-114.svg"
+ },
+ {
+  "code": "H-115",
+  "file": "Hungary_road_sign_H-115.svg",
+  "name": "Hungary road sign H-115",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-115.svg"
+ },
+ {
+  "code": "H-116",
+  "file": "Hungary_road_sign_H-116.svg",
+  "name": "Hungary road sign H-116",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-116.svg"
+ },
+ {
+  "code": "H-118",
+  "file": "Hungary_road_sign_H-118.svg",
+  "name": "Hungary road sign H-118",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-118.svg"
+ },
+ {
+  "code": "H-119",
+  "file": "Hungary_road_sign_H-119.svg",
+  "name": "Hungary road sign H-119",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-119.svg"
+ },
+ {
+  "code": "H-120",
+  "file": "Hungary_road_sign_H-120.svg",
+  "name": "Hungary road sign H-120",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-120.svg"
+ },
+ {
+  "code": "H-121",
+  "file": "Hungary_road_sign_H-121.svg",
+  "name": "Hungary road sign H-121",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-121.svg"
+ },
+ {
+  "code": "H-122",
+  "file": "Hungary_road_sign_H-122.svg",
+  "name": "Hungary road sign H-122",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-122.svg"
+ },
+ {
+  "code": "H-123",
+  "file": "Hungary_road_sign_H-123.svg",
+  "name": "Hungary road sign H-123",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-123.svg"
+ },
+ {
+  "code": "H-124",
+  "file": "Hungary_road_sign_H-124.svg",
+  "name": "Hungary road sign H-124",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-124.svg"
+ },
+ {
+  "code": "H-125",
+  "file": "Hungary_road_sign_H-125.svg",
+  "name": "Hungary road sign H-125",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_H-125.svg"
+ },
+ {
+  "code": "HUN-Speed-Limit-110kph",
+  "file": "HUN-Speed-Limit-110kph.svg",
+  "name": "HUN-Speed-Limit-110kph",
+  "description": "Speed limit 110 km/h",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN-Speed-Limit-110kph.svg"
+ },
+ {
+  "code": "HUN_654",
+  "file": "HUN_654.svg",
+  "name": "HUN 654",
+  "description": "HUN 654",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_654.svg"
+ },
+ {
+  "code": "HUN_E661_europai_ut",
+  "file": "HUN_E661_europai_ut.svg",
+  "name": "HUN E661 europai ut",
+  "description": "HUN E661 europai ut",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_E661_europai_ut.svg"
+ },
+ {
+  "code": "HUN_E73_europai_ut",
+  "file": "HUN_E73_europai_ut.svg",
+  "name": "HUN E73 europai ut",
+  "description": "HUN E73 europai ut",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_E73_europai_ut.svg"
+ },
+ {
+  "code": "HUN_KRESZ-133d",
+  "file": "HUN_KRESZ-133d.svg",
+  "name": "HUN KRESZ-133d",
+  "description": "HUN KRESZ-133d",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ-133d.svg"
+ },
+ {
+  "code": "HUN_KRESZ-139c",
+  "file": "HUN_KRESZ-139c.svg",
+  "name": "HUN KRESZ-139c",
+  "description": "HUN KRESZ-139c",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ-139c.svg"
+ },
+ {
+  "code": "HUN_KRESZ-142h",
+  "file": "HUN_KRESZ-142h.svg",
+  "name": "HUN KRESZ-142h",
+  "description": "HUN KRESZ-142h",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ-142h.svg"
+ },
+ {
+  "code": "HUN_KRESZ-146",
+  "file": "HUN_KRESZ-146.svg",
+  "name": "HUN KRESZ-146",
+  "description": "HUN KRESZ-146",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ-146.svg"
+ },
+ {
+  "code": "HUN_KRESZ-146a",
+  "file": "HUN_KRESZ-146a.svg",
+  "name": "HUN KRESZ-146a",
+  "description": "HUN KRESZ-146a",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ-146a.svg"
+ },
+ {
+  "code": "HUN_KRESZ-146b",
+  "file": "HUN_KRESZ-146b.svg",
+  "name": "HUN KRESZ-146b",
+  "description": "HUN KRESZ-146b",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ-146b.svg"
+ },
+ {
+  "code": "HUN_KRESZ-30a",
+  "file": "HUN_KRESZ-30a.svg",
+  "name": "HUN KRESZ-30a",
+  "description": "HUN KRESZ-30a",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ-30a.svg"
+ },
+ {
+  "code": "HUN_KRESZ-30aa",
+  "file": "HUN_KRESZ-30aa.svg",
+  "name": "HUN KRESZ-30aa",
+  "description": "HUN KRESZ-30aa",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ-30aa.svg"
+ },
+ {
+  "code": "HUN_KRESZ-34a",
+  "file": "HUN_KRESZ-34a.svg",
+  "name": "HUN KRESZ-34a",
+  "description": "HUN KRESZ-34a",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ-34a.svg"
+ },
+ {
+  "code": "HUN_KRESZ-34aa",
+  "file": "HUN_KRESZ-34aa.svg",
+  "name": "HUN KRESZ-34aa",
+  "description": "HUN KRESZ-34aa",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ-34aa.svg"
+ },
+ {
+  "code": "HUN_KRESZ-8a",
+  "file": "HUN_KRESZ-8a.svg",
+  "name": "HUN KRESZ-8a",
+  "description": "HUN KRESZ-8a",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ-8a.svg"
+ },
+ {
+  "code": "HUN_KRESZ-8b",
+  "file": "HUN_KRESZ-8b.svg",
+  "name": "HUN KRESZ-8b",
+  "description": "HUN KRESZ-8b",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ-8b.svg"
+ },
+ {
+  "code": "HUN_KRESZ-8c",
+  "file": "HUN_KRESZ-8c.svg",
+  "name": "HUN KRESZ-8c",
+  "description": "HUN KRESZ-8c",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ-8c.svg"
+ },
+ {
+  "code": "HUN_KRESZ-8d",
+  "file": "HUN_KRESZ-8d.svg",
+  "name": "HUN KRESZ-8d",
+  "description": "HUN KRESZ-8d",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ-8d.svg"
+ },
+ {
+  "code": "HUN_KRESZ_139ca",
+  "file": "HUN_KRESZ_139ca.svg",
+  "name": "HUN KRESZ 139ca",
+  "description": "HUN KRESZ 139ca",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_139ca.svg"
+ },
+ {
+  "code": "HUN_KRESZ_140",
+  "file": "HUN_KRESZ_140.svg",
+  "name": "HUN KRESZ 140",
+  "description": "HUN KRESZ 140",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_140.svg"
+ },
+ {
+  "code": "HUN_KRESZ_141",
+  "file": "HUN_KRESZ_141.svg",
+  "name": "HUN KRESZ 141",
+  "description": "HUN KRESZ 141",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_141.svg"
+ },
+ {
+  "code": "HUN_KRESZ_142",
+  "file": "HUN_KRESZ_142.svg",
+  "name": "HUN KRESZ 142",
+  "description": "HUN KRESZ 142",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_142.svg"
+ },
+ {
+  "code": "HUN_KRESZ_142d",
+  "file": "HUN_KRESZ_142d.svg",
+  "name": "HUN KRESZ 142d",
+  "description": "HUN KRESZ 142d",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_142d.svg"
+ },
+ {
+  "code": "HUN_KRESZ_15",
+  "file": "HUN_KRESZ_15.svg",
+  "name": "HUN KRESZ 15",
+  "description": "HUN KRESZ 15 fő út",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_15.svg"
+ },
+ {
+  "code": "HUN_KRESZ_302",
+  "file": "HUN_KRESZ_302.svg",
+  "name": "HUN KRESZ 302",
+  "description": "HUN KRESZ 302 fő út",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_302.svg"
+ },
+ {
+  "code": "HUN_KRESZ_4",
+  "file": "HUN_KRESZ_4.svg",
+  "name": "HUN KRESZ 4",
+  "description": "HUN KRESZ 4 fő út",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_4.svg"
+ },
+ {
+  "code": "HUN_KRESZ_E-021",
+  "file": "HUN_KRESZ_E-021.svg",
+  "name": "HUN KRESZ E-021",
+  "description": "HUN KRESZ E-021",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_E-021.svg"
+ },
+ {
+  "code": "HUN_KRESZ_E-022",
+  "file": "HUN_KRESZ_E-022.svg",
+  "name": "HUN KRESZ E-022",
+  "description": "HUN KRESZ E-021",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_E-022.svg"
+ },
+ {
+  "code": "HUN_KRESZ_E-023",
+  "file": "HUN_KRESZ_E-023.svg",
+  "name": "HUN KRESZ E-023",
+  "description": "HUN KRESZ E-021",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_E-023.svg"
+ },
+ {
+  "code": "HUN_KRESZ_G-077",
+  "file": "HUN_KRESZ_G-077.svg",
+  "name": "HUN KRESZ G-077",
+  "description": "HUN KRESZ G-077",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_G-077.svg"
+ },
+ {
+  "code": "HUN_KRESZ_G-078",
+  "file": "HUN_KRESZ_G-078.svg",
+  "name": "HUN KRESZ G-078",
+  "description": "HUN KRESZ G-078",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_G-078.svg"
+ },
+ {
+  "code": "HUN_KRESZ_G-106",
+  "file": "HUN_KRESZ_G-106.svg",
+  "name": "HUN KRESZ G-106",
+  "description": "HUN KRESZ G-106",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_G-106.svg"
+ },
+ {
+  "code": "HUN_KRESZ_M2",
+  "file": "HUN_KRESZ_M2.svg",
+  "name": "HUN KRESZ M2",
+  "description": "HUN KRESZ M2",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_M2.svg"
+ },
+ {
+  "code": "HUN_KRESZ_M30",
+  "file": "HUN_KRESZ_M30.svg",
+  "name": "HUN KRESZ M30",
+  "description": "HUN KRESZ M30",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:HUN_KRESZ_M30.svg"
+ },
+ {
+  "code": "Hungary_Fout_Sign",
+  "file": "Hungary_Fout_Sign.svg",
+  "name": "Hungary Fout Sign",
+  "description": "A local road junction with the 4th Main Road in Hungary, with direction to be followed by vehicles over 3.5 tonnes.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_Fout_Sign.svg"
+ },
+ {
+  "code": "Hungary_HighwayDistanceSign",
+  "file": "Hungary_HighwayDistanceSign.svg",
+  "name": "Hungary HighwayDistanceSign",
+  "description": "Sign that shows the distance to cities that are reachable via the M7 motorway in Hungary.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_HighwayDistanceSign.svg"
+ },
+ {
+  "code": "Hungary_HighwayExitSign",
+  "file": "Hungary_HighwayExitSign.svg",
+  "name": "Hungary HighwayExitSign",
+  "description": "Sign that shows the exit on km 121 on the M7 motorway in Hungary.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_HighwayExitSign.svg"
+ },
+ {
+  "code": "Hungary_SpeedLimit_10",
+  "file": "Hungary_SpeedLimit_10.svg",
+  "name": "Hungary SpeedLimit 10",
+  "description": "Hungary 10 km/h speed limit.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_SpeedLimit_10.svg"
+ },
+ {
+  "code": "Hungary_SpeedLimit_100",
+  "file": "Hungary_SpeedLimit_100.svg",
+  "name": "Hungary SpeedLimit 100",
+  "description": "Hungary 100 km/h speed limit.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_SpeedLimit_100.svg"
+ },
+ {
+  "code": "Hungary_SpeedLimit_110",
+  "file": "Hungary_SpeedLimit_110.svg",
+  "name": "Hungary SpeedLimit 110",
+  "description": "Hungary 110 km/h speed limit.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_SpeedLimit_110.svg"
+ },
+ {
+  "code": "Hungary_SpeedLimit_120",
+  "file": "Hungary_SpeedLimit_120.svg",
+  "name": "Hungary SpeedLimit 120",
+  "description": "Hungary 120 km/h speed limit.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_SpeedLimit_120.svg"
+ },
+ {
+  "code": "Hungary_SpeedLimit_130",
+  "file": "Hungary_SpeedLimit_130.svg",
+  "name": "Hungary SpeedLimit 130",
+  "description": "Hungary 130 km/h speed limit.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_SpeedLimit_130.svg"
+ },
+ {
+  "code": "Hungary_SpeedLimit_20",
+  "file": "Hungary_SpeedLimit_20.svg",
+  "name": "Hungary SpeedLimit 20",
+  "description": "Hungary 20 km/h speed limit.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_SpeedLimit_20.svg"
+ },
+ {
+  "code": "Hungary_SpeedLimit_30",
+  "file": "Hungary_SpeedLimit_30.svg",
+  "name": "Hungary SpeedLimit 30",
+  "description": "Hungary 30 km/h speed limit.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_SpeedLimit_30.svg"
+ },
+ {
+  "code": "Hungary_SpeedLimit_40",
+  "file": "Hungary_SpeedLimit_40.svg",
+  "name": "Hungary SpeedLimit 40",
+  "description": "Hungary 40 km/h speed limit.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_SpeedLimit_40.svg"
+ },
+ {
+  "code": "Hungary_SpeedLimit_5",
+  "file": "Hungary_SpeedLimit_5.svg",
+  "name": "Hungary SpeedLimit 5",
+  "description": "Hungary 5 km/h speed limit.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_SpeedLimit_5.svg"
+ },
+ {
+  "code": "Hungary_SpeedLimit_50",
+  "file": "Hungary_SpeedLimit_50.svg",
+  "name": "Hungary SpeedLimit 50",
+  "description": "Hungary 50 km/h speed limit.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_SpeedLimit_50.svg"
+ },
+ {
+  "code": "Hungary_SpeedLimit_60",
+  "file": "Hungary_SpeedLimit_60.svg",
+  "name": "Hungary SpeedLimit 60",
+  "description": "Hungary 60 km/h speed limit.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_SpeedLimit_60.svg"
+ },
+ {
+  "code": "Hungary_SpeedLimit_70",
+  "file": "Hungary_SpeedLimit_70.svg",
+  "name": "Hungary SpeedLimit 70",
+  "description": "Hungary 70 km/h speed limit.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_SpeedLimit_70.svg"
+ },
+ {
+  "code": "Hungary_SpeedLimit_80",
+  "file": "Hungary_SpeedLimit_80.svg",
+  "name": "Hungary SpeedLimit 80",
+  "description": "Hungary 80 km/h speed limit.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_SpeedLimit_80.svg"
+ },
+ {
+  "code": "Hungary_SpeedLimit_90",
+  "file": "Hungary_SpeedLimit_90.svg",
+  "name": "Hungary SpeedLimit 90",
+  "description": "Hungary 90 km/h speed limit.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_SpeedLimit_90.svg"
+ },
+ {
+  "code": "I-001",
+  "file": "Hungary_road_sign_I-001.svg",
+  "name": "Hungary road sign I-001",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_I-001.svg"
+ },
+ {
+  "code": "I-004",
+  "file": "Hungary_road_sign_I-004.svg",
+  "name": "Hungary road sign I-004",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_I-004.svg"
+ },
+ {
+  "code": "I-005",
+  "file": "Hungary_road_sign_I-005.svg",
+  "name": "Hungary road sign I-005",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_I-005.svg"
+ },
+ {
+  "code": "I-025",
+  "file": "Hungary_road_sign_I-025.svg",
+  "name": "Hungary road sign I-025",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_I-025.svg"
+ },
+ {
+  "code": "I-026",
+  "file": "Hungary_road_sign_I-026.svg",
+  "name": "Hungary road sign I-026",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_I-026.svg"
+ },
+ {
+  "code": "I-031",
+  "file": "Hungary_road_sign_I-031.svg",
+  "name": "Hungary road sign I-031",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_I-031.svg"
+ },
+ {
+  "code": "I-032",
+  "file": "Hungary_road_sign_I-032.svg",
+  "name": "Hungary road sign I-032",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_I-032.svg"
+ },
+ {
+  "code": "I-034",
+  "file": "Hungary_road_sign_I-034.svg",
+  "name": "Hungary road sign I-034",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_I-034.svg"
+ },
+ {
+  "code": "I-037",
+  "file": "Hungary_road_sign_I-037.svg",
+  "name": "Hungary road sign I-037",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_I-037.svg"
+ },
+ {
+  "code": "I-040",
+  "file": "Hungary_road_sign_I-040.svg",
+  "name": "Hungary road sign I-040",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_I-040.svg"
+ },
+ {
+  "code": "I-044",
+  "file": "Hungary_road_sign_I-044.svg",
+  "name": "Hungary road sign I-044",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_I-044.svg"
+ },
+ {
+  "code": "I-045",
+  "file": "Hungary_road_sign_I-045.svg",
+  "name": "Hungary road sign I-045",
+  "description": "Hungarian road sign.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_I-045.svg"
+ },
+ {
+  "code": "KRESZ-30a",
+  "file": "KRESZ-30a.svg",
+  "name": "KRESZ-30a",
+  "description": "Sebességkorlátozás - a határmenti térségben",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-30a.svg"
+ },
+ {
+  "code": "KRESZ-30aa",
+  "file": "KRESZ-30aa.svg",
+  "name": "KRESZ-30aa",
+  "description": "Sebességkorlátozás vége - a határmenti térségben",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-30aa.svg"
+ },
+ {
+  "code": "KRESZ-38",
+  "file": "KRESZ-38.svg",
+  "name": "KRESZ-38",
+  "description": "Súlykorlátozás",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-38.svg"
+ },
+ {
+  "code": "KRESZ-5",
+  "file": "KRESZ-5.svg",
+  "name": "KRESZ-5",
+  "description": "Főútvonal",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-5.svg"
+ },
+ {
+  "code": "KRESZ-6",
+  "file": "KRESZ-6.svg",
+  "name": "KRESZ-6",
+  "description": "Főútvonal vége",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-6.svg"
+ },
+ {
+  "code": "KRESZ-7",
+  "file": "KRESZ-7.svg",
+  "name": "KRESZ-7",
+  "description": "A kiegészítõ tábla az útkeresztezõdés alaprajzi vázlatán a fõútvonal vonalvezetését vastag vonallal tünteti fel",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-7.svg"
+ },
+ {
+  "code": "KRESZ-8",
+  "file": "KRESZ-8.svg",
+  "name": "KRESZ-8",
+  "description": "A jelzőtábla előjelzésére a táblával azonos ábrájú - az előjelzett tábla távolságát feltüntető - kiegészítő táblával ellátott jelzőtábla szolgál",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-8.svg"
+ },
+ {
+  "code": "KRESZ-86b",
+  "file": "KRESZ-86b.svg",
+  "name": "KRESZ-86b",
+  "description": "Szabadon élő állatok.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-86b.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-100m",
+  "file": "KRESZ-KSZ-100m.svg",
+  "name": "KRESZ-KSZ-100m",
+  "description": "100 m",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-100m.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-100m-a",
+  "file": "KRESZ-KSZ-100m-a.svg",
+  "name": "KRESZ-KSZ-100m-a",
+  "description": "100 m",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-100m-a.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-2Időszak",
+  "file": "KRESZ-KSZ-2Időszak.svg",
+  "name": "KRESZ-KSZ-2Időszak",
+  "description": "Két időszak",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-2Időszak.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-2óra",
+  "file": "KRESZ-KSZ-2óra.svg",
+  "name": "KRESZ-KSZ-2óra",
+  "description": "2 óra",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-2óra.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-4km",
+  "file": "KRESZ-KSZ-4km.svg",
+  "name": "KRESZ-KSZ-4km",
+  "description": "4 km",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-4km.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-4km-a",
+  "file": "KRESZ-KSZ-4km-a.svg",
+  "name": "KRESZ-KSZ-4km-a",
+  "description": "4 km",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-4km-a.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-AGáz",
+  "file": "KRESZ-KSZ-AGáz.svg",
+  "name": "KRESZ-KSZ-AGáz",
+  "description": "Autógáz",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-AGáz.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-Diesel",
+  "file": "KRESZ-KSZ-Diesel.svg",
+  "name": "KRESZ-KSZ-Diesel",
+  "description": "Diesel",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-Diesel.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-Időszak",
+  "file": "KRESZ-KSZ-Időszak.svg",
+  "name": "KRESZ-KSZ-Időszak",
+  "description": "Időszak",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-Időszak.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-IÚCN",
+  "file": "KRESZ-KSZ-IÚCN.svg",
+  "name": "KRESZ-KSZ-IÚCN",
+  "description": "Idegenforgalmi úti cél neve",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-IÚCN.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-MŰKÖDIK",
+  "file": "KRESZ-KSZ-MŰKÖDIK.svg",
+  "name": "KRESZ-KSZ-MŰKÖDIK",
+  "description": "Községünkben polgárőrség működik",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-MŰKÖDIK.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-RVáltozás",
+  "file": "KRESZ-KSZ-RVáltozás.svg",
+  "name": "KRESZ-KSZ-RVáltozás",
+  "description": "Forgalmi rend változás",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-RVáltozás.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-TaxiSz",
+  "file": "KRESZ-KSZ-TaxiSz.svg",
+  "name": "KRESZ-KSZ-TaxiSz",
+  "description": "Taxik száma",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-TaxiSz.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-Többszöröződés",
+  "file": "KRESZ-KSZ-Többszöröződés.svg",
+  "name": "KRESZ-KSZ-Többszöröződés",
+  "description": "Többszöröződés",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-Többszöröződés.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-celfrg",
+  "file": "KRESZ-KSZ-celfrg.svg",
+  "name": "KRESZ-KSZ-celfrg",
+  "description": "Kivéve cérforgalom",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-celfrg.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-drop-in-point",
+  "file": "KRESZ-KSZ-drop-in-point.svg",
+  "name": "KRESZ-KSZ-drop-in-point",
+  "description": "Rendelt taxi utasfelvétel",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-drop-in-point.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-enged",
+  "file": "KRESZ-KSZ-enged.svg",
+  "name": "KRESZ-KSZ-enged",
+  "description": "Kivéve engedéllyel",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-enged.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-forgalmi-rend-megváltozott",
+  "file": "KRESZ-KSZ-forgalmi-rend-megváltozott.svg",
+  "name": "KRESZ-KSZ-forgalmi-rend-megváltozott",
+  "description": "Forgalmi rend megváltozott",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-forgalmi-rend-megváltozott.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-lakótelep",
+  "file": "KRESZ-KSZ-lakótelep.svg",
+  "name": "KRESZ-KSZ-lakótelep",
+  "description": "LAKÓTELEP EGÉSZ TERÜLETÉN",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-lakótelep.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-magánút",
+  "file": "KRESZ-KSZ-magánút.svg",
+  "name": "KRESZ-KSZ-magánút",
+  "description": "Magánút",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-magánút.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-padkahiba",
+  "file": "KRESZ-KSZ-padkahiba.svg",
+  "name": "KRESZ-KSZ-padkahiba",
+  "description": "Padkahiba",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-padkahiba.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-zárva-1",
+  "file": "KRESZ-KSZ-zárva-1.svg",
+  "name": "KRESZ-KSZ-zárva-1",
+  "description": "Az híd lezárva",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-zárva-1.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-zárva-2",
+  "file": "KRESZ-KSZ-zárva-2.svg",
+  "name": "KRESZ-KSZ-zárva-2",
+  "description": "Az út lezárva",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-zárva-2.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-zárva-3",
+  "file": "KRESZ-KSZ-zárva-3.svg",
+  "name": "KRESZ-KSZ-zárva-3",
+  "description": "Az utca lezárva",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-zárva-3.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-zárva-4",
+  "file": "KRESZ-KSZ-zárva-4.svg",
+  "name": "KRESZ-KSZ-zárva-4",
+  "description": "Lezárva!",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-zárva-4.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-zárva-5",
+  "file": "KRESZ-KSZ-zárva-5.svg",
+  "name": "KRESZ-KSZ-zárva-5",
+  "description": "Csomópont lezárva",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-zárva-5.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-Üdvözöljük",
+  "file": "KRESZ-KSZ-Üdvözöljük.svg",
+  "name": "KRESZ-KSZ-Üdvözöljük",
+  "description": "Üdvözöljüktábla",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-Üdvözöljük.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-árusz",
+  "file": "KRESZ-KSZ-árusz.svg",
+  "name": "KRESZ-KSZ-árusz",
+  "description": "Kivéve áruszállítás",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-árusz.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-árvíz",
+  "file": "KRESZ-KSZ-árvíz.svg",
+  "name": "KRESZ-KSZ-árvíz",
+  "description": "Árvíz miatt az út lezárva",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-árvíz.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-úthibák",
+  "file": "KRESZ-KSZ-úthibák.svg",
+  "name": "KRESZ-KSZ-úthibák",
+  "description": "Úthibák",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-úthibák.svg"
+ },
+ {
+  "code": "KRESZ-KSZ-útzár",
+  "file": "KRESZ-KSZ-útzár.svg",
+  "name": "KRESZ-KSZ-útzár",
+  "description": "Útzár",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-KSZ-útzár.svg"
+ },
+ {
+  "code": "KRESZ-T-csak-tolni",
+  "file": "KRESZ-T-csak-tolni.svg",
+  "name": "KRESZ-T-csak-tolni",
+  "description": "A kerékpárt csak tolni szabad",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-T-csak-tolni.svg"
+ },
+ {
+  "code": "KRESZ-T-hazalo-kereskedelem",
+  "file": "KRESZ-T-hazalo-kereskedelem.svg",
+  "name": "KRESZ-T-hazalo-kereskedelem",
+  "description": "Házaló kereskedelem tilos",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ-T-hazalo-kereskedelem.svg"
+ },
+ {
+  "code": "KRESZ_G-079_2",
+  "file": "KRESZ_G-079_2.svg",
+  "name": "KRESZ G-079 2",
+  "description": "KRESZ G-079 2",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:KRESZ_G-079_2.svg"
+ },
+ {
+  "code": "merge_lanes",
+  "file": "Hungary_road_sign_merge_lanes.svg",
+  "name": "Hungary road sign merge lanes",
+  "description": "Merging lane sign in Hungary.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_merge_lanes.svg"
+ },
+ {
+  "code": "tunnel",
+  "file": "Hungary_road_sign_tunnel.svg",
+  "name": "Hungary road sign tunnel",
+  "description": "Tunnel warning sign in Hungary",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_tunnel.svg"
+ },
+ {
+  "code": "tunnel_information",
+  "file": "Hungary_road_sign_tunnel_information.svg",
+  "name": "Hungary road sign tunnel information",
+  "description": "Tunnel information sign Hungary",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hungary_road_sign_tunnel_information.svg"
+ }
+]

@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cad-mcp"
+version = "0.9.1"
+description = "MCP server to create, edit, inspect and export AutoCAD DXF/DWG drawings without AutoCAD"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=2.3,<3",
+    "ezdxf>=1.4.5",
+    "matplotlib>=3.9",
+    "shapely>=2.0",
+    "pyproj>=3.6",
+    "manifold3d>=3.0",
+    "pyshp>=2.3",
+    "svgelements>=1.9",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+cad-mcp = "cad_mcp.server:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

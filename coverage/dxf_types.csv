@@ -1,0 +1,94 @@
+type;section;status;mcp;note
+3DFACE;Entities;yes;draw3d.face;
+3DSOLID;Entities;partial;draw3d.box draw3d.boolean draw3d.to_solid;fazettált (sík lapú) ACIS testeket ír - görbe felületű ACIS test írása nincs
+ACAD_PROXY_ENTITY;Entities;na;;más alkalmazás saját eleme (megmarad)
+ARC;Entities;yes;draw.arc draw.arc_3p;
+ATTDEF;Entities;yes;block.attdef;
+ATTRIB;Entities;yes;block.insert block.set_attributes;
+BODY;Entities;live;;ACIS
+CIRCLE;Entities;yes;draw.circle draw.circle_3p;
+COORDINATION MODEL;Entities;na;;Navisworks/pontfelhő modellhivatkozás, külső szoftverhez kötött
+DIMENSION;Entities;yes;annotate.dim_linear annotate.dim_aligned annotate.dim_angular annotate.dim_radius annotate.dim_diameter annotate.dim_ordinate;
+ELLIPSE;Entities;yes;draw.ellipse;
+HATCH;Entities;yes;draw.hatch draw.hatch_pick;
+HELIX;Entities;yes;draw3d.helix;
+IMAGE;Entities;yes;draw.image;
+INSERT;Entities;yes;block.insert;
+LEADER;Entities;yes;annotate.leader_classic;
+LIGHT;Entities;na;;renderelés
+LINE;Entities;yes;draw.line draw.lines;
+LWPOLYLINE;Entities;yes;draw.polyline draw.rectangle draw.polygon;
+MESH;Entities;yes;draw3d.mesh draw3d.box terrain.surface;
+MLEADER;Entities;yes;annotate.leader;
+MLEADERSTYLE;Entities;yes;style.create_mleader_style;
+MLINE;Entities;yes;draw.mline;
+MTEXT;Entities;yes;annotate.mtext;
+OLE2FRAME;Entities;na;;beágyazott Office objektum
+OLEFRAME;Entities;na;;
+POINT;Entities;yes;draw.point terrain.import_points;
+POLYLINE;Entities;yes;draw.polyline3d;
+RAY;Entities;yes;draw.ray;
+REGION;Entities;live;;ACIS
+SECTION;Entities;live;;3D metszősík
+SEQEND;Entities;na;;belső szerkezeti elem
+SHAPE;Entities;yes;draw.shape;
+SOLID;Entities;yes;draw.solid;
+SPLINE;Entities;yes;draw.spline;
+SUN;Entities;na;;renderelés
+SURFACE;Entities;live;;ACIS felület
+TABLE;Entities;partial;annotate.table;vonalakból+szövegből rajzolt
+TEXT;Entities;yes;annotate.text;
+TOLERANCE;Entities;yes;annotate.tolerance;
+TRACE;Entities;na;;elavult
+UNDERLAY;Entities;yes;draw.underlay;
+VERTEX;Entities;na;;a POLYLINE része
+VIEWPORT;Entities;yes;layout.add_viewport;
+WIPEOUT;Entities;yes;draw.wipeout;
+XLINE;Entities;yes;draw.xline;
+APPID;Tables;na;;belső
+BLOCK_RECORD;Tables;yes;block.define;
+DIMSTYLE;Tables;yes;style.create_dimstyle;
+LAYER;Tables;yes;layer.create;
+LTYPE;Tables;yes;style.load_linetype;
+STYLE;Tables;yes;style.create_text_style;
+UCS;Tables;yes;drawing.ucs;
+VIEW;Tables;yes;drawing.named_view;
+VPORT;Tables;na;;képernyőbeállítás
+BLOCK;Blocks;yes;block.define;
+ENDBLK;Blocks;na;;belső
+ACAD_PROXY_OBJECT;Objects;na;;
+ACDBDICTIONARYWDFLT;Objects;na;;belső
+ACDBNAVISWORKSMODELDEF;Objects;na;;Navisworks, külső szoftverhez kötött
+ACDBPLACEHOLDER;Objects;na;;belső
+DATATABLE;Objects;na;;elavult
+DICTIONARY;Objects;yes;road.alignment;belső adattár (nyomvonal, terep)
+DICTIONARYVAR;Objects;na;;belső
+DIMASSOC;Objects;partial;annotate.dim_associate annotate.update_fields;az MCP köti a méretet az elemekhez és frissíti - natív DIMASSOC objektum nincs
+FIELD;Objects;partial;annotate.field annotate.update_fields;MCP-mező, nem natív FIELD objektum
+GEODATA;Objects;partial;geo.set_location;World Mercator helyi rács (AutoCAD-ben ellenőrizendő)
+GROUP;Objects;yes;edit.group;
+IDBUFFER;Objects;na;;
+IMAGEDEF;Objects;yes;draw.image;
+IMAGEDEF_REACTOR;Objects;yes;draw.image;
+LAYER_FILTER;Objects;yes;layer.filter;a Rétegtulajdonság-kezelő elnevezett szűrői (AcLyLayerFilter / AcLyLayerGroup XRECORD)
+LAYER_INDEX;Objects;na;;
+LAYOUT;Objects;yes;layout.create;
+LIGHTLIST;Objects;na;;
+MATERIAL;Objects;na;;renderelés
+MLINESTYLE;Objects;yes;style.create_mline_style;
+OBJECT_PTR;Objects;na;;
+PLOTSETTINGS;Objects;yes;layout.page_setup;
+RASTERVARIABLES;Objects;yes;draw.image;
+RENDER;Objects;na;;
+SECTION;Objects;live;;
+SORTENTSTABLE;Objects;yes;edit.draworder;
+SPATIAL_FILTER;Objects;yes;block.xclip;
+SPATIAL_INDEX;Objects;na;;
+SUNSTUDY;Objects;na;;
+TABLESTYLE;Objects;missing;;az ezdxf nem tud TABLESTYLE-t írni
+UNDERLAYDEFINITION;Objects;yes;draw.underlay;
+VBA_PROJECT;Objects;na;;
+VISUALSTYLE;Objects;na;;
+WIPEOUTVARIABLES;Objects;yes;draw.wipeout;
+XRECORD;Objects;yes;road.alignment;
+LARGE_RADIAL_DIMENSION;Entities;yes;annotate.dim_jogged;megtört sugárméret

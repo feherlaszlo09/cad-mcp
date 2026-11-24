@@ -1,0 +1,304 @@
+command;category;status;mcp;note
+LINE;Rajzolás;yes;draw.line draw.lines;
+PLINE;Rajzolás;yes;draw.polyline;ívszakaszok bulge értékkel, vastagság
+3DPOLY;Rajzolás;yes;draw.polyline3d;
+RECTANG;Rajzolás;yes;draw.rectangle;forgatás, lekerekítés
+POLYGON;Rajzolás;yes;draw.polygon;beírt/körülírt
+CIRCLE;Rajzolás;yes;draw.circle draw.circle_3p draw.circle_2p draw.circle_ttr draw.circle_ttt;középpont+sugár, 2P, 3P, TTR (vonal/ív/kör), TTT (három egyenes)
+ARC;Rajzolás;yes;draw.arc draw.arc_3p;
+ELLIPSE;Rajzolás;yes;draw.ellipse;részellipszis is
+SPLINE;Rajzolás;yes;draw.spline;illesztési vagy kontrollpontok
+POINT;Rajzolás;yes;draw.point;
+XLINE;Rajzolás;yes;draw.xline;
+RAY;Rajzolás;yes;draw.ray;
+DONUT;Rajzolás;yes;draw.donut;
+SOLID;Rajzolás;yes;draw.solid;
+HATCH;Rajzolás;yes;draw.hatch draw.hatch_pick;határvonallal, elemekkel vagy belső ponttal,  szigetek
+GRADIENT;Rajzolás;yes;draw.gradient edit.hatchedit;LINEAR, CYLINDER, SPHERICAL, CURVED és INV* változatok
+BOUNDARY;Rajzolás;yes;draw.boundary;szigetekkel
+REGION;Rajzolás;live;;régió (ACIS) csak élő AutoCAD-del
+REVCLOUD;Rajzolás;yes;draw.revcloud;
+WIPEOUT;Rajzolás;yes;draw.wipeout;
+MLINE;Rajzolás;yes;draw.mline;
+DIVIDE;Rajzolás;yes;draw.divide;pontok vagy blokkok
+MEASURE;Rajzolás;yes;draw.measure;pontok vagy blokkok
+HELIX;Rajzolás;yes;draw3d.helix;
+SKETCH;Rajzolás;na;;szabadkézi egérrajz
+TRACE;Rajzolás;na;;elavult
+TEXT;Feliratozás;yes;annotate.text;igazítások, stílus
+MTEXT;Feliratozás;yes;annotate.mtext;
+TABLE;Feliratozás;partial;annotate.table query.extract;vonalakból és szövegből rajzolt táblázat - natív TABLE objektumot az ezdxf nem tud írni
+BLOCK;Blokkok;yes;block.define;rajzlépésekből vagy kijelölésből
+INSERT;Blokkok;yes;block.insert;attribútumokkal
+WBLOCK;Blokkok;yes;drawing.wblock;
+ATTDEF;Blokkok;yes;block.attdef;
+ATTEDIT;Blokkok;yes;block.set_attributes;
+EATTEDIT;Blokkok;yes;block.set_attributes;
+ATTSYNC;Blokkok;yes;block.sync_attributes;
+BATTMAN;Blokkok;yes;block.edit_attdef block.sync_attributes;átnevezés, prompt, alapérték, magasság, láthatóság, sorrend
+BEDIT;Blokkok;partial;block.contents block.redefine block.attdef;blokk tartalmának szerkesztése - dinamikus blokk paraméterek/műveletek nem készíthetők
+XATTACH;Hivatkozások;yes;block.attach_xref;
+XREF;Hivatkozások;yes;block.attach_xref block.xref_manage block.bind_xref;csatolás, lista, útvonal, leválasztás, beágyazás (reload/unload az AutoCAD munkamenet állapota)
+XBIND;Hivatkozások;yes;block.bind_xref;
+XCLIP;Hivatkozások;partial;block.xclip;téglalap/sokszög vágás és törlés - invertált vágás nincs (az AutoCAD nem nyitná meg)
+IMAGEATTACH;Hivatkozások;yes;draw.image;
+PDFATTACH;Hivatkozások;yes;draw.underlay;oldalválasztás, vágás - az előnézeti kép nem mutatja, az AutoCAD igen
+DWFATTACH;Hivatkozások;yes;draw.underlay;
+DGNATTACH;Hivatkozások;yes;draw.underlay;
+REFEDIT;Hivatkozások;partial;drawing.open drawing.save block.xref_manage;a hivatkozott fájl megnyitása és szerkesztése - helyben szerkesztés nincs
+DESIGNCENTER;Hivatkozások;yes;drawing.import_resources block.import;rétegek, vonaltípusok, stílusok, blokkok
+MOVE;Módosítás;yes;edit.move;
+COPY;Módosítás;yes;edit.copy;többszörös másolás
+ROTATE;Módosítás;yes;edit.rotate;másolással is
+SCALE;Módosítás;yes;edit.scale;másolással is
+MIRROR;Módosítás;yes;edit.mirror;MIRRTEXT kezelés
+ARRAYRECT;Módosítás;yes;edit.array_rect;nem asszociatív
+ARRAYPOLAR;Módosítás;yes;edit.array_polar;nem asszociatív
+ARRAYPATH;Módosítás;yes;edit.array_path;nem asszociatív
+ARRAYEDIT;Módosítás;partial;edit.array_block edit.array_edit;szerkeszthető téglalapos tömb (MINSERT) - poláris/görbementi asszociatív tömb nincs
+OFFSET;Módosítás;yes;edit.offset edit.offset_exact;íves polyline-nál az ívek ívek maradnak, spline/ellipszis közelítve (mint az AutoCAD-ben)
+TRIM;Módosítás;yes;edit.trim;vonal, ív, kör, polyline, spline, ellipszis
+EXTEND;Módosítás;yes;edit.extend edit.extend_arc_end;vonal, ív, polyline (egyenes és íves vég), spline (a végszakasz természetes folytatása), ellipszisív
+FILLET;Módosítás;yes;edit.fillet edit.fillet_any edit.fillet_polyline;vonal, ív, kör bármely párosítása, polyline sarkai
+CHAMFER;Módosítás;yes;edit.chamfer edit.chamfer_angle edit.chamfer_polyline;két távolság, távolság+szög, polyline
+BREAK;Módosítás;yes;edit.break_at;
+BREAKATPOINT;Módosítás;yes;edit.break_at;
+JOIN;Módosítás;yes;edit.join edit.join_same;"egyenesből egyenes, ívből ív/kör, vegyesből polyline; ha spline vagy ellipszisív is van: egy SPLINE (ívek pontosan, racionális szakaszokkal)"
+EXPLODE;Módosítás;yes;edit.explode;
+ERASE;Módosítás;yes;edit.delete;
+STRETCH;Módosítás;yes;edit.stretch;vonal, polyline, ív (magasságtartó), blokk, szöveg, kör, spline pontjai
+LENGTHEN;Módosítás;yes;edit.lengthen edit.lengthen_any;delta, teljes hossz, százalék, szög - vonal, ív, polyline
+ALIGN;Módosítás;yes;edit.align;
+PEDIT;Módosítás;yes;edit.pedit edit.pedit_vertex edit.pedit_spline edit.join;zárás, vastagság, csúcsszerkesztés, spline, ívek törlése, összefűzés
+SPLINEDIT;Módosítás;yes;edit.splinedit edit.reverse;zárás/nyitás, illesztési pontok, kontrollpont, polyline-ná alakítás, megfordítás
+REVERSE;Módosítás;yes;edit.reverse;
+OVERKILL;Módosítás;yes;edit.overkill;duplikátumok és átfedő egyenesek
+MATCHPROP;Módosítás;yes;edit.matchprop;
+CHPROP;Módosítás;yes;edit.set_props;
+CHANGE;Módosítás;yes;edit.set_props edit.set_geometry;
+PROPERTIES;Módosítás;yes;query.get edit.set_props edit.set_geometry;
+SETBYLAYER;Módosítás;yes;edit.setbylayer;
+DRAWORDER;Módosítás;yes;edit.draworder;
+TEXTTOFRONT;Módosítás;yes;edit.draworder;
+HATCHTOBACK;Módosítás;yes;edit.draworder;
+HATCHEDIT;Módosítás;yes;edit.hatchedit;minta, lépték, szög, szín, színátmenet
+GROUP;Módosítás;yes;edit.group;
+UNGROUP;Módosítás;yes;edit.ungroup;
+UNDO;Módosítás;yes;drawing.undo;
+REDO;Módosítás;yes;drawing.redo;
+U;Módosítás;yes;drawing.undo;
+COPYCLIP;Módosítás;na;;vágólap
+PASTECLIP;Módosítás;na;;vágólap
+3DMOVE;3D;yes;edit.move;Z irányban is
+3DROTATE;3D;yes;edit.rotate3d;tetszőleges tengely körül
+3DMIRROR;3D;yes;edit.mirror3d;tetszőleges sík (3 pont)
+3DARRAY;3D;yes;edit.array3d;téglalapos (sor, oszlop, szint) és poláris tetszőleges tengely körül
+DIMLINEAR;Méretezés;yes;annotate.dim_linear;
+DIMALIGNED;Méretezés;yes;annotate.dim_aligned;
+DIMANGULAR;Méretezés;yes;annotate.dim_angular;
+DIMARC;Méretezés;yes;annotate.dim_arc_length;
+DIMRADIUS;Méretezés;yes;annotate.dim_radius;
+DIMDIAMETER;Méretezés;yes;annotate.dim_diameter;
+DIMORDINATE;Méretezés;yes;annotate.dim_ordinate;
+DIMCONTINUE;Méretezés;yes;annotate.dim_continue;
+DIMBASELINE;Méretezés;yes;annotate.dim_baseline;
+QDIM;Méretezés;yes;annotate.qdim;lánc- és bázisméretezés
+DIMJOGGED;Méretezés;yes;annotate.dim_jogged;natív megtört sugárméret (LARGE_RADIAL_DIMENSION) képblokkal
+DIMSPACE;Méretezés;yes;annotate.dim_space;
+DIMBREAK;Méretezés;partial;annotate.dim_break;a méretet felrobbantja a megszakításhoz
+DIMEDIT;Méretezés;yes;annotate.dim_text annotate.set_text;szöveg, forgatás, ferde méretsegédvonal, alaphelyzet
+DIMTEDIT;Méretezés;yes;annotate.dim_text;
+DIMSTYLE;Méretezés;yes;style.create_dimstyle style.list_dimstyles;
+TOLERANCE;Méretezés;yes;annotate.tolerance;14 tűréstípus, átmérő, anyagállapot, bázisok, két sor
+CENTERMARK;Méretezés;yes;annotate.centermark;
+CENTERLINE;Méretezés;yes;annotate.centerline;
+MLEADER;Feliratozás;yes;annotate.leader;
+QLEADER;Feliratozás;yes;annotate.leader;
+LEADER;Feliratozás;yes;annotate.leader_classic annotate.leader;klasszikus LEADER + MTEXT
+MLEADERALIGN;Feliratozás;yes;annotate.mleader_align;
+MLEADERSTYLE;Feliratozás;yes;style.create_mleader_style annotate.leader_styled;
+TEXTEDIT;Feliratozás;yes;annotate.set_text;
+MTEDIT;Feliratozás;yes;annotate.set_text;
+FIND;Feliratozás;yes;annotate.find_replace query.find_text;
+SCALETEXT;Feliratozás;yes;annotate.scale_text;
+JUSTIFYTEXT;Feliratozás;yes;annotate.justify_text;a szöveg helyben marad
+SPELL;Feliratozás;na;;
+STYLE;Feliratozás;yes;style.create_text_style style.list_text_styles;
+TABLESTYLE;Feliratozás;missing;;natív TABLE/TABLESTYLE objektumot az ezdxf nem tud írni
+FIELD;Feliratozás;partial;annotate.field annotate.update_fields;terület, hossz, kerület, sugár, dátum, fájlnév - az MCP frissíti, az AutoCAD-ben sima szöveg
+LAYER;Rétegek;yes;layer.list layer.create layer.modify;
+LAYOFF;Rétegek;yes;layer.modify;
+LAYON;Rétegek;yes;layer.modify layer.all_on;
+LAYFRZ;Rétegek;yes;layer.modify;
+LAYTHW;Rétegek;yes;layer.modify layer.all_on;
+LAYLCK;Rétegek;yes;layer.modify;
+LAYULK;Rétegek;yes;layer.modify;
+LAYISO;Rétegek;yes;layer.isolate;
+LAYUNISO;Rétegek;yes;layer.all_on;
+LAYMRG;Rétegek;yes;layer.merge;
+LAYDEL;Rétegek;yes;layer.delete;
+LAYMCUR;Rétegek;yes;layer.set_current;
+CLAYER;Rétegek;yes;layer.set_current;
+LAYCUR;Rétegek;yes;edit.set_props;
+LAYERSTATE;Rétegek;yes;layer.state;"natív ACAD_LAYERSTATES: az AutoCAD rétegállapot-kezelője látja; tulajdonságonkénti maszk; az AutoCAD-ben mentett állapotok is visszaállíthatók"
+LAYTRANS;Rétegek;yes;layer.translate;
+LAYWALK;Rétegek;na;;
+LINETYPE;Rétegek;yes;style.list_linetypes style.load_linetype;egyedi minta is
+LTSCALE;Rétegek;yes;drawing.set_var;
+LWEIGHT;Rétegek;yes;edit.set_props layer.modify;
+COLOR;Rétegek;yes;drawing.set_var edit.set_props;
+CHECKSTANDARDS;Rétegek;yes;layer.check_standards;
+DIST;Lekérdezés;yes;query.distance;
+AREA;Lekérdezés;yes;query.area;szigetekkel
+LIST;Lekérdezés;yes;query.get query.list;
+ID;Lekérdezés;na;;koordinátákkal dolgozik
+MEASUREGEOM;Lekérdezés;yes;query.distance query.area query.length;
+MASSPROP;Lekérdezés;yes;query.massprop;2D: terület, kerület, súlypont, inercianyomatékok - 3D: térfogat, felszín, súlypont
+STATUS;Lekérdezés;yes;drawing.info;
+DWGPROPS;Lekérdezés;yes;drawing.properties;egyéni tulajdonságok
+COUNT;Lekérdezés;yes;query.count;blokkok számlálása
+DATAEXTRACTION;Lekérdezés;yes;query.extract;CSV és táblázat
+QSELECT;Lekérdezés;yes;query.list;szűrés típus, réteg, ablak, ezdxf lekérdezés szerint
+SELECTSIMILAR;Lekérdezés;yes;query.similar;
+FILTER;Lekérdezés;yes;query.list;
+NEW;Fájl;yes;drawing.new;
+OPEN;Fájl;yes;drawing.open;DXF, DWG
+SAVE;Fájl;yes;drawing.save;
+QSAVE;Fájl;yes;drawing.save;
+SAVEAS;Fájl;yes;drawing.save;DWG R12–2018, DXF verziók
+CLOSE;Fájl;yes;drawing.close;
+RECOVER;Fájl;yes;drawing.open;sérült DXF javítása
+AUDIT;Fájl;yes;drawing.audit;
+PURGE;Fájl;yes;drawing.purge;
+EXPORTPDF;Fájl;yes;view.export;méretarányosan, papírméretre
+PLOT;Fájl;yes;view.export view.publish;PDF/SVG/PNG/JPG/TIFF/EPS, méretarány, papír, CTB tollkiosztás, monokróm/szürke
+PUBLISH;Fájl;yes;view.publish;többlapos PDF
+EXPORT;Fájl;yes;view.export view.export_3d drawing.save drawing.wblock geo.export_kml;PDF, SVG, PNG, JPG, TIFF, EPS, STL, OBJ, DXF, DWG, KML
+PNGOUT;Fájl;yes;view.export;
+JPGOUT;Fájl;yes;view.export;
+DXFIN;Fájl;yes;drawing.open;
+DXFOUT;Fájl;yes;drawing.save;
+IMPORT;Fájl;yes;drawing.import geo.import_vector terrain.import_points;DXF, DWG, GeoJSON, Shapefile, KML, GPX, CSV pontok
+ETRANSMIT;Fájl;yes;drawing.etransmit;ZIP: rajz, xref-ek, képek, alátétek, átadási jegyzék
+DWGCONVERT;Fájl;yes;drawing.convert_files drawing.save;tömeges DWG/DXF verziókonverzió
+LAYOUT;Layout;yes;layout.create layout.list layout.rename layout.delete;
+MVIEW;Layout;yes;layout.add_viewport;
+VPSCALE;Layout;yes;layout.zoom_viewport;
+PAGESETUP;Layout;yes;layout.page_setup;papír, tájolás, margó, lépték, tollkiosztás, plotter
+VIEW;Nézet;yes;drawing.named_view;
+UCS;Nézet;yes;drawing.ucs;elnevezett UCS
+ZOOM;Nézet;na;view.png;a Claude a view.png régiójával nagyít
+PAN;Nézet;na;view.png;
+REGEN;Nézet;na;;
+VPORTS;Nézet;na;;
+3DORBIT;Nézet;na;;
+VSCURRENT;Nézet;na;;
+UNITS;Beállítás;yes;style.units drawing.set_units;
+LIMITS;Beállítás;yes;drawing.set_var;
+SETVAR;Beállítás;yes;drawing.set_var drawing.get_var;
+RENAME;Beállítás;yes;layer.rename block.rename layout.rename;
+OSNAP;Beállítás;na;;pontos koordinátákkal dolgozik
+SNAP;Beállítás;na;;
+GRID;Beállítás;na;;
+ORTHO;Beállítás;na;;
+OPTIONS;Beállítás;na;;
+BOX;3D;yes;draw3d.box;solid=true: valódi 3DSOLID (sík lapok, pontos)
+CYLINDER;3D;partial;draw3d.cylinder;solid=true: 3DSOLID, de a palást sokszöglapos (fazettált)
+CONE;3D;partial;draw3d.cone;fazettált
+SPHERE;3D;partial;draw3d.sphere;fazettált
+TORUS;3D;partial;draw3d.torus;fazettált
+WEDGE;3D;yes;draw3d.wedge;solid=true: valódi 3DSOLID
+PYRAMID;3D;yes;draw3d.pyramid;csonka gúla is, solid=true: 3DSOLID
+EXTRUDE;3D;yes;draw3d.extrude;solid=true: 3DSOLID, íves profil fazettált
+REVOLVE;3D;partial;draw3d.revolve;fazettált
+SWEEP;3D;yes;draw3d.sweep;íves profil/pálya fazettált
+LOFT;3D;yes;draw3d.loft;egyenes vagy simított (spline) átmenet
+3DFACE;3D;yes;draw3d.face;
+MESH;3D;yes;draw3d.mesh;
+UNION;3D;partial;draw3d.boolean;zárt hálókon és fazettált 3DSOLID-okon - AutoCAD-ben készült görbe felületű testeken nem
+SUBTRACT;3D;partial;draw3d.boolean;mint UNION
+INTERSECT;3D;partial;draw3d.boolean;mint UNION
+SLICE;3D;partial;draw3d.slice;mint UNION
+PRESSPULL;3D;partial;draw3d.presspull;zárt terület kihúzása szigetekkel - test lapjának húzása nincs
+POLYSOLID;3D;yes;draw3d.polysolid;ívek fazettálva
+FILLETEDGE;3D;live;;
+SECTIONPLANE;3D;partial;draw3d.section;metszet körvonala a valós helyén - élő metszősík objektum nincs
+FLATSHOT;3D;yes;draw3d.flatshot;látható élek (körvonal, sziluett, törésélek) és takart élek (HIDDEN vonaltípus, külön réteg), blokkba is
+GEOMCONSTRAINT;Parametrikus;live;;
+DIMCONSTRAINT;Parametrikus;live;;
+AUTOCONSTRAIN;Parametrikus;live;;
+PARAMETERS;Parametrikus;live;;
+SCRIPT;Automatizálás;yes;batch;több lépés egy hívásban
+APPLOAD;Automatizálás;live;;AutoLISP alkalmazások
+QUICKCALC;Automatizálás;na;;
+NYOMVONAL (Civil 3D: CREATEALIGNMENTLAYOUT);Útügy;yes;road.alignment;egyenes, klotoid, körív
+SZELVÉNYEZÉS (Civil 3D: alignment labels);Útügy;yes;road.stationing;
+SZELVÉNY/ELTOLÁS LEKÉRDEZÉS;Útügy;yes;road.station_point road.station_of;
+BURKOLATSZÉL, ELTOLT VONALAK;Útügy;yes;road.offset_lines;
+BURKOLATI JELEK;Útügy;yes;road.marking;szaggatott/folytonos, valós szélesség
+KITŰZÉSI TÁBLÁZAT;Útügy;yes;road.curve_table;
+HOSSZ-SZELVÉNY (Civil 3D: CREATEPROFILEVIEW);Útügy;yes;road.profile;lekerekítő ívek, adatsáv
+KERESZTSZELVÉNY (Civil 3D: CREATESECTIONVIEW);Útügy;yes;road.cross_section road.cross_sections;bevágás/töltés terület
+FÖLDMUNKA (Civil 3D: COMPUTEMATERIALS);Útügy;yes;road.cross_sections;átlagterület-módszer
+GEODÉZIAI PONTOK IMPORTJA (Civil 3D: IMPORTPOINTS);Útügy;yes;terrain.import_points;CSV/TXT, EOV oszlopsorrend
+TEREPMODELL (Civil 3D: CREATESURFACE);Útügy;yes;terrain.surface;TIN
+SZINTVONALAK;Útügy;yes;terrain.contours;
+TEREPSZINT LEKÉRDEZÉS;Útügy;yes;terrain.elevation terrain.along_alignment;
+TÚLEMELÉS (Civil 3D: superelevation);Útügy;yes;road.superelevation road.cross_section;tengely körüli forgatás, lineáris átmenet a klotoidon
+PÁLYASZERKEZET A KERESZTSZELVÉNYBEN;Útügy;yes;road.cross_section road.cross_sections;rétegek, földmű, rétegmennyiségek m³-ben
+KRESZ TÁBLA BLOKKOK;Útügy;yes;road.sign road.sign_at road.sign_types;14 egyszerűsített táblajelkép, szelvényre helyezve
+KÖRFORGALOM;Útügy;yes;road.roundabout;pontos ívek, terelőszigetek
+SZINTBENI CSOMÓPONT (T, X);Útügy;yes;road.intersection;ferde csatlakozás is, sarkonként külön sugár,  háromközéppontú ív és sávosztás nincs
+VÍZELVEZETÉS: ÁROK A KERESZTSZELVÉNYBEN;Útügy;yes;road.cross_section;
+HOSSZIRÁNYÚ ÁROK (fenékszint, esés, mélypontok, folyásirány);Útügy;yes;road.ditch;túl lapos szakaszok jelzése, hossz-szelvénybe is
+ÁTERESZ;Útügy;yes;road.culvert;folyásfenék, esés, teltszelvényű vízszállítás
+VÍZSZÁLLÍTÁS (Manning: árok, cső);Útügy;yes;road.ditch_capacity road.pipe_capacity;
+LEFOLYÓ VÍZHOZAM (racionális módszer);Útügy;yes;road.runoff;
+EOV ↔ WGS84 (GPS) ÁTSZÁMÍTÁS;Útügy;yes;geo.convert;pyproj, HD72→WGS84 kb. 1 m pontosság
+GPS PONTOK A RAJZBA;Útügy;yes;geo.gps_points;
+GOOGLE EARTH (KML) EXPORT;Útügy;yes;geo.export_kml;
+GEOGRAPHICLOCATION;Hivatkozások;partial;geo.set_location;World Mercator helyi rács a rajz közepén,  AutoCAD-ben ellenőrizendő
+TERVEZÉSI PARAMÉTEREK ELLENŐRZÉSE (e-UT);Útügy;yes;road.design_rules_template road.design_check;sugár, túlemelés, ívhossz, egyenes ívek között, A/R, hosszesés, lekerekítés, megállási látótávolság - a szabvány számértékeit a tervező tölti ki a sablonba
+KITŰZÉSI JEGYZÉK;Útügy;yes;road.setout_list;szelvény, eltolás, Y/X (EOV), Z túlemeléssel, CSV és táblázat
+FORDULÓÍV-VIZSGÁLAT (Autoturn-szerű);Útügy;yes;road.swept_path;szóló jármű és nyerges szerelvény, kerékpályák, kormányszög, ütközés a szegéllyel - tipikus járműméretek, a mértékadó járművet ellenőrizni kell
+BURKOLATI JELEK: ZEBRA, STOP- ÉS VÁRAKOZÓVONAL;Útügy;yes;road.crosswalk road.stop_line;méretek paraméterként
+BURKOLATI JELEK: IRÁNYJELZŐ NYILAK;Útügy;yes;road.pavement_arrow;egyenes, balra, jobbra és kombinációk - egyszerűsített nyílforma
+ZÁRÓVONALLAL HATÁROLT TERÜLET;Útügy;yes;road.hatched_area;ferde vagy halszálkás csíkozás
+PARKOLÓ KIOSZTÁS;Útügy;yes;road.parking;merőleges, ferde, párhuzamos, számozás
+JELZŐLÁMPÁS FORGALOMIRÁNYÍTÁS: JELZŐFEJEK;Útügy;yes;road.signal_head;
+JELZÉSTERV, KÖZBENSŐ IDŐK;Útügy;yes;road.signal_timing road.intergreen;ciklusidő, zöldidők, közbenső idő számítása és ellenőrzése - forgalmi optimalizálás nincs
+HIVATALOS KRESZ-TÁBLAKÉPEK;Útügy;yes;road.kresz_list road.kresz_sign road.kresz_sign_at;Wikimedia Commons közkincs SVG-k blokként - néhány forrásfájl csak mintafeliratot tartalmaz
+SVG IMPORT BLOKKBA;Blokkok;yes;block.import_svg;kitöltések, körvonalak, szövegek, transzformációk
+PÁLYASZERKEZET MÉRETEZÉSE (forgalmi terhelésből);Útügy;yes;road.pavement_design road.pavement_strengthening;"e-UT 06.03.14:2026: méretezési forgalom, terhelési osztály, E2m, típus-pályaszerkezetek (6.1–6.4), megerősítés: mértékadó és megengedett behajlás; Δh a 7.2. ábráról"
+MŰTÁRGYAK, TÁMFAL STATIKAI MÉRETEZÉSE;Útügy;na;;statikai szoftver feladata - az MCP a geometriát rajzolja
+LAYERFILTER;Rétegek;yes;layer.filter;elnevezett tulajdonság- és csoportszűrők natívan (ACLYDICTIONARY), a Rétegtulajdonság-kezelő látja
+PONTLISTA (alappontok, számított pontok);Geodézia;yes;survey.points;név szerinti pontok a rajzban, CSV/TXT import, a többi számítás név szerint hivatkozik rájuk
+MÁSODIK ALAPFELADAT (irányszög, távolság);Geodézia;yes;survey.inverse;irányszög fok-perc-másodpercben, távolság, magasságkülönbség
+POLÁRIS PONTSZÁMÍTÁS TÁJÉKOZÁSSAL;Geodézia;yes;survey.polar;középtájékozás javításokkal, ferde/vízszintes távolság, trigonometriai magasság, vetületi szorzó
+SOKSZÖGVONAL;Geodézia;yes;survey.traverse;kétszeresen csatlakozó és tájékozott, zárt, szabad, szögzáróhiba egyenlő elosztással, koordináta-záróhiba hossz arányában, hibahatár-ellenőrzés
+ELŐMETSZÉS, ÍVMETSZÉS, HÁTRAMETSZÉS;Geodézia;yes;survey.intersection;hátrametszés legkisebb négyzetekkel, javítások, veszélyes kör figyelmeztetés
+SZINTEZÉSI VONAL;Geodézia;yes;survey.levelling;záróhiba elosztása távolság arányában, oldalpontok
+HELMERT / AFFIN TRANSZFORMÁCIÓ;Geodézia;yes;survey.transform;közös pontokból, javítások és középhiba, rajzelemek transzformálása
+DAT IMPORT (földhivatali alaptérkép);Geodézia;yes;survey.import_dat;DAT-M1 G Függelék: pontok, ívek, határvonalak, határok, felületek, földrészletek helyrajzi számmal, alrészletek, épületek, feliratok
+KISAJÁTÍTÁS (érintett földrészletek területe);Geodézia;yes;survey.land_take;útsáv vagy határvonal alapján, földrészletenként igénybe vett és maradó terület, új határpontok, CSV és táblázat
+MEGVALÓSULÁSI ELLENŐRZÉS (mért és tervezett);Geodézia;yes;survey.asbuilt_check;felülethez, útterv (tengely+hossz-szelvény+keresztszelvény) vagy tervezett vonalhoz, tűrés, jelölés, CSV
+DAT EXPORT (változási vázrajz DAT-ban);Geodézia;yes;survey.export_dat;földrészletek geometriája helyrajzi számmal: pontok, ívek, közös határvonalak egyszer, határok, felületek lyukkal, a kódtáblázatos kötelező attribútumokat a beadás előtt ki kell tölteni
+CSATORNAHÁLÓZAT (aknák, folyásfenék, hidraulika);Közmű;yes;utility.sewer;automatikus folyásfenék a takarásból és a legkisebb esésből, bukás, csúcs- vagy fenékillesztés, részteltség (Manning vagy Prandtl–Colebrook), ellenőrzések
+CSATORNA HOSSZ-SZELVÉNY;Közmű;yes;utility.sewer_profile;terep, cső fenék és tető, aknák, adatsáv
+VÍZHÁLÓZAT HIDRAULIKA;Közmű;yes;utility.water_network;globális gradiens módszer, hurkos hálózat, Hazen–Williams vagy Darcy–Weisbach, nyomás és sebesség ellenőrzés
+KÖZMŰVEZETÉK RAJZOLÁSA;Közmű;yes;utility.line;fajta, állapot (meglévő, tervezett, megszüntetendő), méret, mélység vagy magasság, felirat
+KÖZMŰ-ÜTKÖZÉSVIZSGÁLAT;Közmű;yes;utility.clearance_check utility.clearance_rules_template;keresztezésnél függőleges, párhuzamos szakaszon vízszintes tiszta távolság a tervező által megadott szabályok szerint
+KÖZMŰVEK A KERESZTSZELVÉNYBEN;Közmű;yes;utility.cross_section;a keresztszelvény helyén, valós magasságban
+GÁZ- ÉS TÁVHŐHÁLÓZAT MÉRETEZÉSE;Közmű;yes;utility.gas_network utility.heat_network;gáz: kisnyomás (Darcy–Weisbach, felhajtóerő) és középnyomás (p²-egyenlet), hurkos is, távhő: hőigényből tömegáram, előremenő+visszatérő veszteség, szivattyú-emelőmagasság
+KÖZVILÁGÍTÁSI OSZLOPKIOSZTÁS;Villamos;yes;electric.lighting_layout;egyoldali, szemközti, váltott, számozás, kar, kábelnyomvonal
+FÉNYELOSZLÁS-FÁJL (LDT, IES);Villamos;yes;electric.photometry;EULUMDAT minden szimmetriával, IES LM-63 C típus
+MEGVILÁGÍTÁS-SZÁMÍTÁS (Eav, Emin, U0, izolux);Villamos;yes;electric.illuminance;pontonkénti vízszintes megvilágítás dőléssel és karbantartási tényezővel, a követelményt a tervező adja
+FÉNYSŰRŰSÉG-SZÁMÍTÁS (L, cd/m²);Villamos;missing;;útburkolati reflexiós táblázatok (r-táblák) kellenek hozzá
+FESZÜLTSÉGESÉS;Villamos;yes;electric.voltage_drop;sugaras kábel, Cu/Al, 1 vagy 3 fázis, hőmérséklet-korrekció, reaktancia
+EGYVONALAS JELKÉPEK;Villamos;yes;electric.symbol;IEC 60617 jellegű blokkok
+EGYVONALAS KAPCSOLÁSI RAJZ;Villamos;yes;electric.single_line;betáp, gyűjtősín, leágazások
+VASÚTI TÚLEMELÉS;Vasút;yes;rail.cant;egyensúlyi túlemelés, hiány, többlet, oldalgyorsulás, kifuttatási hossz
+VÁGÁNY ALAPRAJZBAN;Vasút;yes;rail.track;sínek és aljak a tengely mentén
+KITÉRŐ;Vasút;yes;rail.turnout;sugárból és hajlásból (pl. 54-190-1:9), a és b a típustáblázatból
+VASÚTI KERESZTSZELVÉNY;Vasút;yes;rail.cross_section;ágyazat, alj, sín, alépítmény, túlemelés
+KITÉRŐ-TÍPUSTÁBLÁZATOK (MÁV);Vasút;missing;;a MÁV kitérő-adatlapjai nem nyilvánosak, a és b méretet a tervező adja
