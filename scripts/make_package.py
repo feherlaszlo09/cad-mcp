@@ -14,7 +14,7 @@ import zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-INCLUDE = ["src", "assets", "scripts", "tests", "examples", "coverage", "README.md", "ATVETEL.md", "CLAUDE.md", "TELEPITES.md", "TESZTLISTA.md",
+INCLUDE = ["src", "assets", "scripts", "tests", "examples", "coverage", "LICENSE", "README.md", "ATVETEL.md", "CLAUDE.md", "TELEPITES.md", "TESZTLISTA.md",
            "pyproject.toml", "install.sh", "mcp-config.example.json", ".gitignore"]
 SKIP_DIRS = {"__pycache__", ".pytest_cache", ".ruff_cache", ".venv", ".claude", "teszt_csomag", "dist"}
 SKIP_SUFFIX = {".pyc", ".pyo"}
